@@ -1,66 +1,120 @@
+import csv
+import re
+import time
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from webdriver_manager.chrome import ChromeDriverManager
-import time
 
-# Setup Selenium
-options = Options()
-options.add_argument("--headless")
-driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+def clean_time(raw):
+    match = re.search(r"(\d{1,2}):(\d{2})", raw)
+    if not match:
+        return ""
+    hh, mm = int(match.group(1)), match.group(2)
+    if ("PM" in raw.upper() or "ET" in raw.upper()) and hh != 12:
+        hh = (hh % 12) + 12
+    return f"{hh:02d}:{mm}"
+
+driver = webdriver.Chrome()
+wait = WebDriverWait(driver, 10)
 
 driver.get("https://www.skyracingworld.com/")
-time.sleep(5)  # wait for full page load
+driver.maximize_window()
 
-# Find all the racing sections
-race_sections = driver.find_elements(By.CSS_SELECTOR, ".v2_todays-racing-list-item")
+# Accept cookies
+try:
+    cookie_btn = wait.until(EC.element_to_be_clickable((By.ID, "onetrust-accept-btn-handler")))
+    cookie_btn.click()
+except:
+    pass
 
-all_links = []
+# Open CALENDAR menu
+calendar_li = wait.until(EC.presence_of_element_located((By.XPATH, "//li[a[text()='CALENDAR']]")))
+driver.execute_script("arguments[0].classList.add('open');", calendar_li)
+time.sleep(1)
 
-for i, section in enumerate(race_sections):
-    try:
-        print(f"\nProcessing section {i+1}/{len(race_sections)}")
+# Get submenu links
+submenu_items = calendar_li.find_elements(By.CSS_SELECTOR, ".v2_navbar_list_item_submenu-item")
+submenu_links = [(item.text.strip(), item.get_attribute("href")) for item in submenu_items]
 
-        # Scroll to the section so it's in view
-        driver.execute_script("arguments[0].scrollIntoView(true);", section)
+results = []
+
+for country, url in submenu_links:
+    if not url or url.strip() == "#":
+        continue
+
+    driver.get(url)
+    time.sleep(2)
+
+    # Step 1: collect only valid event links (no href="#")
+    event_links = []
+    events = driver.find_elements(By.CSS_SELECTOR, "div.event-contianer a.event")
+    for ev in events:
+        raw_href = ev.get_attribute("href")
+        if not raw_href or raw_href.strip() == "#":
+            continue  # skip placeholders
+        event_links.append(raw_href)
+
+    # Step 2: visit each event link separately
+    for raw_href in event_links:
+        driver.get(raw_href)
         time.sleep(1)
 
-        # Check if the <ul> is already expanded
-        ul = section.find_element(By.CSS_SELECTOR, ".list-body")
-        is_open = "list-body-opened" in ul.get_attribute("class")
+        # Track name
+        try:
+            track_name = driver.find_element(By.CSS_SELECTOR, "h1").text.strip()
+        except:
+            track_name = ""
 
-        if not is_open:
-            # Find toggle button and click it
-            toggle = section.find_element(By.CSS_SELECTOR, ".list-head-icon-container")
-            try:
-                toggle.click()
-            except:
-                # JS click fallback
-                driver.execute_script("arguments[0].click();", toggle)
+        # Race date from URL
+        match_date = re.search(r"\d{4}-\d{2}-\d{2}", raw_href)
+        race_date = match_date.group(0) if match_date else ""
 
-            time.sleep(1)  # wait for animation
+        # Table rows
+        try:
+            rows = driver.find_elements(By.CSS_SELECTOR, "table.rns-table tbody tr")
+        except:
+            rows = []
 
-        # Wait until the ul has the "list-body-opened" class
-        WebDriverWait(section, 5).until(
-            EC.visibility_of_element_located((By.CSS_SELECTOR, ".list-body.list-body-opened"))
-        )
+        for row in rows:
+            cols = row.find_elements(By.TAG_NAME, "td")
+            if len(cols) >= 7:
+                race_no = re.sub(r"\D", "", cols[0].text.strip())
+                post_time = clean_time(cols[1].text.strip())
+                distance = cols[3].text.strip()
+                race_class = cols[4].text.strip()
+                prize_money = cols[5].text.strip()
+                starters = cols[6].text.strip()
 
-        # Now get all the links inside the expanded ul
-        items = section.find_elements(By.CSS_SELECTOR, ".list-body-item")
-        for item in items:
-            try:
-                link = item.find_element(By.TAG_NAME, "a").get_attribute("href")
-                print(f" ➤ {link}")
-                all_links.append(link)
-            except Exception as e:
-                print("   Failed to get link from item:", e)
+                # Only append if race_no and post_time exist (avoid blank lines)
+                if race_no and post_time:
+                    results.append([
+                        country,      # Sub-menu name
+                        track_name,   # Track name
+                        race_date,    # Race date
+                        race_no,      # Race number
+                        starters,     # Number of starters
+                        post_time,    # Post time HH:MM
+                        distance,     # Distance
+                        race_class,   # Class
+                        prize_money   # Prize money
+                    ])
 
-    except Exception as e:
-        print(f"Error expanding section {i+1}: {e}")
+# Save to CSV
+with open("race_data.csv", "w", newline="", encoding="utf-8") as f:
+    writer = csv.writer(f)
+    writer.writerow([
+        "Sub-menu name",
+        "Track name",
+        "Race date",
+        "Race number",
+        "Number of Starters",
+        "Post Time",
+        "Distance",
+        "Class",
+        "Prize Money"
+    ])
+    writer.writerows(results)
 
 driver.quit()
-
-print(f"\nTotal links collected: {len(all_links)}")
+print("Saved race_data.csv")

@@ -1,0 +1,1658 @@
+Sub-menu name,Track name,Race date,Race number,Number of Starters,Post Time,Distance,Class,Prize Money
+,Rosehill Form Guide,2025-08-02,1,7,21:25,7 ½ f,34 BM72,"$103,200"
+,Rosehill Form Guide,2025-08-02,2,12,22:00,7 f,3U BM72,"$77,400"
+,Rosehill Form Guide,2025-08-02,3,13,22:35,6 f,3U CL3,"$77,400"
+,Rosehill Form Guide,2025-08-02,4,6,23:10,7 f,3UFM BM78,"$103,200"
+,Rosehill Form Guide,2025-08-02,5,7,23:45,6 f,34 BM72,"$103,200"
+,Rosehill Form Guide,2025-08-02,6,6,12:20,7 ½ f,3U OPEN,"$103,200"
+,Rosehill Form Guide,2025-08-02,7,9,12:55,1 ¼ m,3U BM78,"$103,200"
+,Rosehill Form Guide,2025-08-02,8,8,13:35,7 f,3U BM78,"$103,200"
+,Rosehill Form Guide,2025-08-02,9,4,14:10,6 ½ f,3U BM94,"$103,200"
+,Rosehill Form Guide,2025-08-02,10,7,14:45,5 ½ f,3U BM78,"$103,200"
+,Eagle Farm Form Guide,2025-08-02,1,8,22:08,1 m,BM78,"$54,825"
+,Eagle Farm Form Guide,2025-08-02,2,8,22:43,6 f,FM CL6,"$54,825"
+,Eagle Farm Form Guide,2025-08-02,3,10,23:18,5 f,CL3,"$54,825"
+,Eagle Farm Form Guide,2025-08-02,4,11,23:53,1 ⅛ m,BM70,"$48,375"
+,Eagle Farm Form Guide,2025-08-02,5,8,12:28,1 ⅛ m,BM90,"$54,825"
+,Eagle Farm Form Guide,2025-08-02,6,11,13:03,6 f,3 OPEN,"$54,825"
+,Eagle Farm Form Guide,2025-08-02,7,11,13:43,7 f,BM70,"$48,375"
+,Eagle Farm Form Guide,2025-08-02,8,8,14:18,5 f,OPEN,"$54,825"
+,Eagle Farm Form Guide,2025-08-02,9,9,14:50,6 f,3UCG CL6,"$54,825"
+,Gold Coast Form Guide,2025-08-02,1,14,22:59,1 ⅛ m,MDN,"$19,350"
+,Gold Coast Form Guide,2025-08-02,2,7,23:34,5 f,BM65,"$18,060"
+,Gold Coast Form Guide,2025-08-02,3,11,12:09,6 f,MDN,"$19,350"
+,Gold Coast Form Guide,2025-08-02,4,10,12:44,7 f,OPEN,"$18,060"
+,Gold Coast Form Guide,2025-08-02,5,8,13:20,7 f,BM65,"$18,060"
+,Gold Coast Form Guide,2025-08-02,6,10,13:59,1 ⅛ m,BM65,"$18,060"
+,Gold Coast Form Guide,2025-08-02,7,10,14:34,6 f,CL1,"$18,060"
+,Gold Coast Form Guide,2025-08-02,8,15,15:11,7 f,BM0-58,"$18,060"
+,Pinjarra Scarpside Form Guide,2025-08-02,1,8,12:59,6 f,3 OPEN,"$51,600"
+,Pinjarra Scarpside Form Guide,2025-08-02,2,10,13:39,6 f,4U NMW1Y,"$25,800"
+,Pinjarra Scarpside Form Guide,2025-08-02,3,11,14:14,6 f,3U 1MW,"$38,700"
+,Pinjarra Scarpside Form Guide,2025-08-02,4,9,14:59,7 f,3U BM84+,"$64,500"
+,Pinjarra Scarpside Form Guide,2025-08-02,5,10,15:33,7 f,3U BM66+,"$51,600"
+,Pinjarra Scarpside Form Guide,2025-08-02,6,12,16:05,1 ⅜ m,3U BM66+,"$51,600"
+,Pinjarra Scarpside Form Guide,2025-08-02,7,11,16:37,6 f,3U BM72+,"$51,600"
+,Launceston Form Guide,2025-08-03,1,13,22:00,6 f,3U MDN,"$16,125"
+,Launceston Form Guide,2025-08-03,2,8,22:39,7 f,CL1,"$16,770"
+,Launceston Form Guide,2025-08-03,3,10,23:15,7 f,3U MDN,"$16,125"
+,Launceston Form Guide,2025-08-03,4,14,23:55,6 f,BM60,"$12,900"
+,Launceston Form Guide,2025-08-03,5,7,12:35,5 ½ f,CL4,"$18,705"
+,Launceston Form Guide,2025-08-03,6,10,13:15,1 m,CL5,"$19,350"
+,Launceston Form Guide,2025-08-03,7,14,13:52,7 f,BM68,"$16,125"
+,Launceston Form Guide,2025-08-03,8,7,14:27,1 ⁵⁄₁₆ m,BM60,"$12,900"
+,Forbes Form Guide,2025-08-03,1,6,22:15,5 ½ f,MDN,"$25,800"
+,Forbes Form Guide,2025-08-03,2,12,22:55,1 m,MDN,"$19,350"
+,Forbes Form Guide,2025-08-03,3,13,23:35,6 ½ f,MDN,"$32,250"
+,Forbes Form Guide,2025-08-03,4,6,12:15,6 f,BM82,"$19,350"
+,Forbes Form Guide,2025-08-03,5,11,12:55,7 f,BM58,"$22,575"
+,Forbes Form Guide,2025-08-03,6,12,13:35,7 f,CL1,"$19,350"
+,Forbes Form Guide,2025-08-03,7,14,14:10,1 m,OPEN,"$32,250"
+,Forbes Form Guide,2025-08-03,8,10,14:45,5 ½ f,CL2,"$19,350"
+,Sunshine Coast Form Guide,2025-08-03,1,11,22:28,7 f,MDN,"$19,350"
+,Sunshine Coast Form Guide,2025-08-03,2,6,23:08,6 f,BM75,"$18,060"
+,Sunshine Coast Form Guide,2025-08-03,3,10,23:48,6 f,3 MDN,"$19,350"
+,Sunshine Coast Form Guide,2025-08-03,4,12,12:28,5 f,MDN,"$19,350"
+,Sunshine Coast Form Guide,2025-08-03,5,11,13:07,1 m,BM58,"$18,060"
+,Sunshine Coast Form Guide,2025-08-03,6,12,13:44,1 m,BM58,"$18,060"
+,Sunshine Coast Form Guide,2025-08-03,7,10,14:19,1 ⅛ m,3U CL3,"$18,060"
+,Sunshine Coast Form Guide,2025-08-03,8,12,14:55,5 f,CL1,"$18,060"
+,Kalgoorlie Form Guide,2025-08-03,1,6,13:11,1 m,3U BM58+,"$15,480"
+,Kalgoorlie Form Guide,2025-08-03,2,5,13:48,5 ½ f,3U BM70+,"$15,480"
+,Kalgoorlie Form Guide,2025-08-03,3,7,14:23,5 ½ f,3U BM58+,"$15,480"
+,Kalgoorlie Form Guide,2025-08-03,4,7,14:59,7 f,3U CL1,"$15,480"
+,Kalgoorlie Form Guide,2025-08-03,5,7,15:35,6 ½ f,3U MDN,"$12,900"
+,Kalgoorlie Form Guide,2025-08-03,6,9,16:10,6 ½ f,3U CL2,"$15,480"
+,Kalgoorlie Form Guide,2025-08-03,7,10,16:45,5 ½ f,3U CL2,"$15,480"
+,Darwin Form Guide,2025-08-04,1,8,22:21,6 f,BM0-70,"$19,995"
+,Darwin Form Guide,2025-08-04,2,12,22:53,6 f,BM0-58,"$19,995"
+,Darwin Form Guide,2025-08-04,3,8,23:25,5 ½ f,BM0-66,"$19,995"
+,Darwin Form Guide,2025-08-04,4,4,12:05,5 f,OPEN,"$22,575"
+,Darwin Form Guide,2025-08-04,5,12,12:40,1 m,BM0-58,"$19,995"
+,Darwin Form Guide,2025-08-04,6,9,13:20,1 m,BMNT,"$19,995"
+,Darwin Form Guide,2025-08-04,7,8,13:55,6 ½ f,BMNT,"$32,250"
+,Darwin Form Guide,2025-08-04,8,11,14:35,6 ½ f,BM0-62,"$19,995"
+,Darwin Form Guide,2025-08-04,9,11,15:13,1 ¼ m,BM0-70,"$19,995"
+,Darwin Form Guide,2025-08-04,10,12,16:00,1 ¼ m,OPEN,"$129,000"
+,Wagga Riverside Form Guide,2025-08-04,1,7,23:10,1 m,CL1,"$17,415"
+,Wagga Riverside Form Guide,2025-08-04,2,11,23:45,6 f,MDN,"$17,415"
+,Wagga Riverside Form Guide,2025-08-04,3,7,12:25,5 ¼ f,MDN,"$19,350"
+,Wagga Riverside Form Guide,2025-08-04,4,9,13:05,5 ¼ f,BM58,"$17,415"
+,Wagga Riverside Form Guide,2025-08-04,5,12,13:40,5 ¼ f,CL1,"$19,350"
+,Wagga Riverside Form Guide,2025-08-04,6,12,14:15,6 f,BM58,"$17,415"
+,Wagga Riverside Form Guide,2025-08-04,7,11,14:50,1 ⅛ m,BM58,"$17,415"
+,Moruya Form Guide,2025-08-05,1,7,23:05,5 f,MDN,"$17,415"
+,Moruya Form Guide,2025-08-05,2,9,23:40,6 ½ f,MDN,"$17,415"
+,Moruya Form Guide,2025-08-05,3,10,12:15,5 f,CL2,"$17,415"
+,Moruya Form Guide,2025-08-05,4,9,12:55,6 f,BM58,"$17,415"
+,Moruya Form Guide,2025-08-05,5,11,13:35,7 f,MDN,"$19,350"
+,Moruya Form Guide,2025-08-05,6,11,14:10,7 f,BM66,"$19,350"
+,Moruya Form Guide,2025-08-05,7,12,14:45,1 m,BM58,"$17,415"
+,Rockhampton Form Guide,2025-08-05,1,8,23:20,6 f,3 MDN,"$14,835"
+,Rockhampton Form Guide,2025-08-05,2,11,23:55,5 ¼ f,MDN,"$14,835"
+,Rockhampton Form Guide,2025-08-05,3,8,12:35,5 ½ f,OPEN,"$13,545"
+,Rockhampton Form Guide,2025-08-05,4,7,13:10,7 f,3U CL6,"$13,545"
+,Rockhampton Form Guide,2025-08-05,5,9,13:50,6 ½ f,BM60,"$13,545"
+,Rockhampton Form Guide,2025-08-05,6,8,14:25,5 ½ f,CL1,"$13,545"
+,Rockhampton Form Guide,2025-08-05,7,12,15:00,7 ½ f,BM0-55,"$13,545"
+,Doomben Form Guide,2025-08-06,1,7,22:35,6 f,MDN,"$25,800"
+,Doomben Form Guide,2025-08-06,2,9,23:08,1 m,MDN,"$25,800"
+,Doomben Form Guide,2025-08-06,3,8,23:43,1 ¼ m,CL3,"$24,510"
+,Doomben Form Guide,2025-08-06,4,7,12:18,6 ¾ f,CL5,"$24,510"
+,Doomben Form Guide,2025-08-06,5,9,12:53,6 ¾ f,3 MDN,"$25,800"
+,Doomben Form Guide,2025-08-06,6,10,13:28,5 ½ f,BM65,"$24,510"
+,Doomben Form Guide,2025-08-06,7,11,14:03,6 ¾ f,CL1,"$24,510"
+,Doomben Form Guide,2025-08-06,8,11,14:38,1 m,BM68,"$24,510"
+,Canterbury Form Guide,2025-08-06,1,7,22:50,6 f,3U MDN,"$64,500"
+,Canterbury Form Guide,2025-08-06,2,7,23:25,7 ¾ f,34 BM64,"$38,700"
+,Canterbury Form Guide,2025-08-06,3,8,12:00,5 ½ f,3UFM BM64,"$38,700"
+,Canterbury Form Guide,2025-08-06,4,7,12:35,5 ½ f,3UCG BM64,"$38,700"
+,Canterbury Form Guide,2025-08-06,5,9,13:10,7 ¾ f,5U BM72,"$38,700"
+,Canterbury Form Guide,2025-08-06,6,7,13:45,6 ¼ f,5U BM72,"$38,700"
+,Canterbury Form Guide,2025-08-06,7,6,14:20,1 ³⁄₁₆ m,3U BM72,"$38,700"
+,Warwick Form Guide,2025-08-06,1,6,22:55,6 ¾ f,3 MDN,"$14,190"
+,Warwick Form Guide,2025-08-06,2,8,23:32,4 f,BM70,"$12,900"
+,Warwick Form Guide,2025-08-06,3,10,12:07,4 f,3U CL1,"$12,900"
+,Warwick Form Guide,2025-08-06,4,9,12:39,7 ½ f,BM65,"$12,900"
+,Warwick Form Guide,2025-08-06,5,14,13:14,5 ½ f,BM0-58,"$12,900"
+,Warwick Form Guide,2025-08-06,6,14,13:49,6 ¾ f,BM0-58,"$12,900"
+,Warwick Form Guide,2025-08-06,7,14,14:24,7 ½ f,BM55,"$12,900"
+,Belmont Park Form Guide,2025-08-06,1,8,13:04,5 f,3U CL1,"$19,350"
+,Belmont Park Form Guide,2025-08-06,2,10,13:39,7 f,3 NMW1Y,"$22,575"
+,Belmont Park Form Guide,2025-08-06,3,10,14:14,6 f,3U MDN,"$16,125"
+,Belmont Park Form Guide,2025-08-06,4,14,14:52,6 f,3U MDN,"$16,125"
+,Belmont Park Form Guide,2025-08-06,5,10,15:25,5 f,3U NMW1Y,"$22,575"
+,Belmont Park Form Guide,2025-08-06,6,14,16:00,1 m,3U CL1,"$19,350"
+,Belmont Park Form Guide,2025-08-06,7,9,16:35,6 ½ f,3UCG CL3,"$19,350"
+,Tamworth Form Guide,2025-08-07,1,8,21:45,7 f,MDN,"$19,350"
+,Tamworth Form Guide,2025-08-07,2,10,22:20,5 f,MDN,"$17,415"
+,Tamworth Form Guide,2025-08-07,3,10,22:55,6 f,MDN,"$17,415"
+,Tamworth Form Guide,2025-08-07,4,11,23:35,1 m,CL1,"$17,415"
+,Tamworth Form Guide,2025-08-07,5,9,12:10,1 m,CL1,"$17,415"
+,Tamworth Form Guide,2025-08-07,6,12,12:45,7 f,BM58,"$19,350"
+,Tamworth Form Guide,2025-08-07,7,12,13:20,6 f,BM66,"$17,415"
+,Tamworth Form Guide,2025-08-07,8,11,13:55,6 f,BM58,"$17,415"
+,Tamworth Form Guide,2025-08-07,9,12,14:35,5 f,CL3,"$17,415"
+,Mt Isa Form Guide,2025-08-07,1,8,22:42,7 ¼ f,BM0-50,"$9,675"
+,Mt Isa Form Guide,2025-08-07,2,6,23:17,7 ¼ f,3U CL6,"$9,675"
+,Mt Isa Form Guide,2025-08-07,3,6,23:57,5 ½ f,3U MDN,"$10,965"
+,Mt Isa Form Guide,2025-08-07,4,6,12:34,6 f,OPEN,"$9,675"
+,Mt Isa Form Guide,2025-08-07,5,8,13:12,5 f,3U CL3,"$9,675"
+,Mt Isa Form Guide,2025-08-07,6,10,13:47,6 f,CL1,"$9,675"
+,Mt Isa Form Guide,2025-08-07,7,10,14:22,6 f,BM0-60,"$9,675"
+,Northam Form Guide,2025-08-07,1,11,13:27,5 ½ f,3 MDN,"$16,125"
+,Northam Form Guide,2025-08-07,2,12,14:04,5 f,3U MDN,"$16,125"
+,Northam Form Guide,2025-08-07,3,8,14:42,5 f,3U CL3,"$19,350"
+,Northam Form Guide,2025-08-07,4,12,15:18,1 m,3U MDN,"$16,125"
+,Northam Form Guide,2025-08-07,5,10,15:57,6 ½ f,3U MDN,"$16,125"
+,Northam Form Guide,2025-08-07,6,8,16:35,6 ½ f,3U CL1,"$19,350"
+,Port Macquarie Form Guide,2025-08-08,1,12,22:35,5 ½ f,MDN,"$19,350"
+,Port Macquarie Form Guide,2025-08-08,2,13,23:10,1 ⅛ m,BM58,"$17,415"
+,Port Macquarie Form Guide,2025-08-08,3,9,23:45,7 ½ f,CL3,"$19,350"
+,Port Macquarie Form Guide,2025-08-08,4,14,12:20,7 ½ f,MDN,"$17,415"
+,Port Macquarie Form Guide,2025-08-08,5,14,12:55,6 f,MDN,"$17,415"
+,Port Macquarie Form Guide,2025-08-08,6,11,13:30,6 f,FM BM58,"$17,415"
+,Port Macquarie Form Guide,2025-08-08,7,14,14:10,6 f,CG BM58,"$17,415"
+,Port Macquarie Form Guide,2025-08-08,8,8,14:50,5 f,BM66,"$17,415"
+,Ipswich Form Guide,2025-08-08,1,6,22:49,1 m,CL4,"$18,060"
+,Ipswich Form Guide,2025-08-08,2,10,23:24,1 ⁵⁄₁₆ m,MDN,"$19,350"
+,Ipswich Form Guide,2025-08-08,3,13,23:59,6 ¾ f,MDN,"$19,350"
+,Ipswich Form Guide,2025-08-08,4,10,12:34,6 ¾ f,34 BM65,"$18,060"
+,Ipswich Form Guide,2025-08-08,5,9,13:09,5 ½ f,BM62,"$18,060"
+,Ipswich Form Guide,2025-08-08,6,10,13:44,6 ¾ f,BM62,"$18,060"
+,Ipswich Form Guide,2025-08-08,7,9,14:24,6 f,3U CL2,"$18,060"
+,Canberra Acton Form Guide,2025-08-08,1,8,22:56,1 ³⁄₁₆ m,CL1,"$14,190"
+,Canberra Acton Form Guide,2025-08-08,2,10,23:31,5 ¼ f,4U BM50,"$10,320"
+,Canberra Acton Form Guide,2025-08-08,3,8,12:06,5 ¼ f,MDN,"$14,190"
+,Canberra Acton Form Guide,2025-08-08,4,8,12:41,6 ¼ f,MDN,"$14,190"
+,Canberra Acton Form Guide,2025-08-08,5,9,13:16,6 ¼ f,OPEN,"$19,350"
+,Canberra Acton Form Guide,2025-08-08,6,11,13:53,1 ¹⁄₁₆ m,BM70,"$14,190"
+,Canberra Acton Form Guide,2025-08-08,7,8,14:33,6 f,BM60,"$14,190"
+,Eagle Farm Form Guide | Today,2025-08-09,1,5,21:38,1 m,BM85,"$54,825"
+,Eagle Farm Form Guide | Today,2025-08-09,2,7,22:13,7 f,3U CL3,"$48,375"
+,Eagle Farm Form Guide | Today,2025-08-09,3,10,22:48,6 f,BM70,"$48,375"
+,Eagle Farm Form Guide | Today,2025-08-09,4,8,23:23,7 f,BM78,"$54,825"
+,Eagle Farm Form Guide | Today,2025-08-09,5,11,23:58,1 ½ m,BM78,"$54,825"
+,Eagle Farm Form Guide | Today,2025-08-09,6,9,12:33,5 f,3 OPEN,"$54,825"
+,Eagle Farm Form Guide | Today,2025-08-09,7,9,13:12,7 f,OPEN,"$54,825"
+,Eagle Farm Form Guide | Today,2025-08-09,8,12,13:48,6 f,NMW,"$54,825"
+,Eagle Farm Form Guide | Today,2025-08-09,9,10,14:27,5 f,BM78,"$54,825"
+,Newcastle Form Guide | Today,2025-08-09,1,11,22:40,4 ½ f,MDN,"$38,700"
+,Newcastle Form Guide | Today,2025-08-09,2,5,23:15,6 ¼ f,CG MDN,"$27,090"
+,Newcastle Form Guide | Today,2025-08-09,3,7,23:50,6 ¼ f,FM MDN,"$27,090"
+,Newcastle Form Guide | Today,2025-08-09,4,8,12:25,7 f,MDN,"$29,025"
+,Newcastle Form Guide | Today,2025-08-09,5,5,13:00,6 f,BM68,"$29,025"
+,Newcastle Form Guide | Today,2025-08-09,6,8,13:40,1 ⅛ m,3U BM64,"$27,090"
+,Newcastle Form Guide | Today,2025-08-09,7,6,14:15,7 f,CG BM64,"$27,090"
+,Newcastle Form Guide | Today,2025-08-09,8,5,14:55,7 f,FM BM64,"$27,090"
+,Gold Coast Poly,2025-08-09,1,7,23:35,1 ³⁄₁₆ m,BM60,"$18,060"
+,Gold Coast Poly,2025-08-09,2,7,12:10,7 ½ f,BM68,"$18,060"
+,Gold Coast Poly,2025-08-09,3,12,12:45,7 ½ f,MDN,"$19,350"
+,Gold Coast Poly,2025-08-09,4,9,13:25,6 f,BM65,"$18,060"
+,Gold Coast Poly,2025-08-09,5,12,14:00,5 ½ f,BM55,"$18,060"
+,Gold Coast Poly,2025-08-09,6,12,14:40,7 ½ f,BM55,"$18,060"
+,Pinjarra Form Guide | Today,2025-08-09,1,7,13:04,5 f,3 OPEN,"$51,600"
+,Pinjarra Form Guide | Today,2025-08-09,2,10,13:44,1 m,4U NMW1Y,"$25,800"
+,Pinjarra Form Guide | Today,2025-08-09,3,9,14:19,1 m,3U BM72+,"$51,600"
+,Pinjarra Form Guide | Today,2025-08-09,4,10,15:00,1 ¼ m,3U 1MW,"$38,700"
+,Pinjarra Form Guide | Today,2025-08-09,5,10,15:35,5 f,3U BM66+,"$51,600"
+,Pinjarra Form Guide | Today,2025-08-09,6,11,16:10,7 f,3U 1MW,"$38,700"
+,Pinjarra Form Guide | Today,2025-08-09,7,9,16:45,6 f,3U OPEN LR,"$80,625"
+,Sunshine Coast Form Guide,2025-08-10,1,10,22:20,6 f,MDN,"$19,350"
+,Sunshine Coast Form Guide,2025-08-10,2,9,22:57,6 f,CL5,"$18,060"
+,Sunshine Coast Form Guide,2025-08-10,3,12,23:37,1 m,MDN,"$19,350"
+,Sunshine Coast Form Guide,2025-08-10,4,9,12:17,1 m,CL1,"$18,060"
+,Sunshine Coast Form Guide,2025-08-10,5,9,12:57,5 f,CL2,"$18,060"
+,Sunshine Coast Form Guide,2025-08-10,6,17,13:34,6 f,BM0-58,"$18,060"
+,Sunshine Coast Form Guide,2025-08-10,7,15,14:10,7 f,3U CL2,"$18,060"
+,Sunshine Coast Form Guide,2025-08-10,8,15,14:45,1 ⅛ m,BM58,"$18,060"
+,Hobart Form Guide,2025-08-10,1,9,22:25,1 m,3U MDN,"$16,125"
+,Hobart Form Guide,2025-08-10,2,13,23:01,5 ½ f,3U MDN,"$16,125"
+,Hobart Form Guide,2025-08-10,3,9,23:41,5 ½ f,CL2,"$17,415"
+,Hobart Form Guide,2025-08-10,4,12,12:21,6 f,CL1,"$16,770"
+,Hobart Form Guide,2025-08-10,5,10,13:01,1 m,CL2,"$17,415"
+,Hobart Form Guide,2025-08-10,6,9,13:39,6 ¾ f,CL6,"$19,350"
+,Hobart Form Guide,2025-08-10,7,8,14:15,5 f,BM72,"$17,415"
+,Hobart Form Guide,2025-08-10,8,7,14:50,1 ⅜ m,BM68,"$16,125"
+,Dubbo Form Guide,2025-08-10,1,18,22:45,6 ½ f,3U MDN,"$19,350"
+,Dubbo Form Guide,2025-08-10,2,13,23:25,1 m,BM58,"$17,415"
+,Dubbo Form Guide,2025-08-10,3,17,12:05,5 ½ f,MDN,"$32,250"
+,Dubbo Form Guide,2025-08-10,4,9,12:45,7 f,OPEN,"$17,415"
+,Dubbo Form Guide,2025-08-10,5,18,13:25,7 f,CL2,"$17,415"
+,Dubbo Form Guide,2025-08-10,6,10,14:00,5 ½ f,OPEN,"$17,415"
+,Dubbo Form Guide,2025-08-10,7,16,14:35,5 ½ f,BM58,"$19,350"
+,Dubbo Form Guide,2025-08-10,8,16,15:10,5 ½ f,BM58,"$19,350"
+,Wagga Form Guide,2025-08-10,1,5,23:06,1 ⁹⁄₁₆ m,OPEN,"$20,640"
+,Wagga Form Guide,2025-08-10,2,9,23:46,7 f,MDN,"$19,350"
+,Wagga Form Guide,2025-08-10,3,11,12:26,6 f,MDN,"$17,415"
+,Wagga Form Guide,2025-08-10,4,12,13:06,1 m,CL1,"$17,415"
+,Wagga Form Guide,2025-08-10,5,9,13:46,5 f,BM82,"$17,415"
+,Wagga Form Guide,2025-08-10,6,16,14:20,6 ½ f,CL1,"$17,415"
+,Wagga Form Guide,2025-08-10,7,14,14:55,6 f,BM58,"$19,350"
+,Kalgoorlie Form Guide,2025-08-10,1,9,13:17,5 ½ f,3U MDN,"$12,900"
+,Kalgoorlie Form Guide,2025-08-10,2,11,13:55,7 f,3U MDN,"$12,900"
+,Kalgoorlie Form Guide,2025-08-10,3,8,14:30,1 ⁵⁄₁₆ m,3U BM64+,"$15,480"
+,Kalgoorlie Form Guide,2025-08-10,4,10,15:05,1 ¹⁄₁₆ m,3U CL2,"$15,480"
+,Kalgoorlie Form Guide,2025-08-10,5,11,15:40,7 f,3U BM58+,"$15,480"
+,Kalgoorlie Form Guide,2025-08-10,6,12,16:20,7 f,3U OPEN,"$19,350"
+,Kalgoorlie Form Guide,2025-08-10,7,16,16:54,6 f,3U CL2,"$15,480"
+,Lismore Form Guide,2025-08-11,1,11,22:50,1 ⁵⁄₁₆ m,BM58,"$17,415"
+,Lismore Form Guide,2025-08-11,2,8,23:25,7 ½ f,BM66,"$17,415"
+,Lismore Form Guide,2025-08-11,3,11,12:05,6 ½ f,BM58,"$19,350"
+,Lismore Form Guide,2025-08-11,4,17,12:40,5 ½ f,MDN,"$19,350"
+,Lismore Form Guide,2025-08-11,5,11,13:15,5 ½ f,BM66,"$17,415"
+,Lismore Form Guide,2025-08-11,6,19,13:50,6 ½ f,MDN,"$17,415"
+,Lismore Form Guide,2025-08-11,7,14,14:25,7 f,CL1,"$17,415"
+,Goulburn Form Guide,2025-08-11,1,9,23:05,5 ½ f,MDN,"$17,415"
+,Goulburn Form Guide,2025-08-11,2,11,23:40,6 f,MDN,"$19,350"
+,Goulburn Form Guide,2025-08-11,3,9,12:20,6 f,CL3,"$17,415"
+,Goulburn Form Guide,2025-08-11,4,12,12:55,5 ½ f,BM58,"$19,350"
+,Goulburn Form Guide,2025-08-11,5,10,13:35,7 ½ f,MDN,"$17,415"
+,Goulburn Form Guide,2025-08-11,6,14,14:10,1 m,BM58,"$17,415"
+,Goulburn Form Guide,2025-08-11,7,15,14:45,7 f,CL2,"$17,415"
+,Mackay Form Guide,2025-08-12,1,11,22:52,6 ½ f,MDN,"$14,835"
+,Mackay Form Guide,2025-08-12,2,9,23:27,6 ½ f,BM0-55,"$13,545"
+,Mackay Form Guide,2025-08-12,3,8,12:04,6 ½ f,BM70,"$13,545"
+,Mackay Form Guide,2025-08-12,4,10,12:42,7 ¾ f,CL3,"$13,545"
+,Mackay Form Guide,2025-08-12,5,17,13:17,5 ½ f,BM55,"$13,545"
+,Mackay Form Guide,2025-08-12,6,11,13:57,6 f,OPEN,"$13,545"
+,Mackay Form Guide,2025-08-12,7,12,14:34,1 ⅛ m,BM60,"$13,545"
+,Muswellbrook Form Guide,2025-08-12,1,9,23:05,7 ½ f,BM66,"$17,415"
+,Muswellbrook Form Guide,2025-08-12,2,11,23:40,7 ½ f,MDN,"$17,415"
+,Muswellbrook Form Guide,2025-08-12,3,12,12:15,6 ¼ f,MDN,"$19,350"
+,Muswellbrook Form Guide,2025-08-12,4,16,12:55,5 f,MDN,"$17,415"
+,Muswellbrook Form Guide,2025-08-12,5,13,13:35,5 f,CL1,"$19,350"
+,Muswellbrook Form Guide,2025-08-12,6,13,14:10,5 f,BM74,"$17,415"
+,Muswellbrook Form Guide,2025-08-12,7,14,14:45,6 ¼ f,FM BM66,"$17,415"
+,Hawkesbury Form Guide,2025-08-12,1,16,23:20,6 ½ f,4U MDN,"$27,090"
+,Hawkesbury Form Guide,2025-08-12,2,15,23:55,5 ½ f,MDN,"$27,090"
+,Hawkesbury Form Guide,2025-08-12,3,9,12:35,7 ½ f,CL1,"$27,090"
+,Hawkesbury Form Guide,2025-08-12,4,16,13:10,7 ½ f,MDN,"$27,090"
+,Hawkesbury Form Guide,2025-08-12,5,12,13:50,5 ½ f,CL1,"$27,090"
+,Hawkesbury Form Guide,2025-08-12,6,12,14:25,6 ½ f,CL1,"$29,025"
+,Hawkesbury Form Guide,2025-08-12,7,12,15:00,1 ⅛ m,3U BM64,"$29,025"
+,Broome Form Guide,2025-08-12,1,8,13:45,5 f,2U CL2,"$12,900"
+,Broome Form Guide,2025-08-12,2,9,14:21,5 ½ f,2U BM58+,"$13,867"
+,Broome Form Guide,2025-08-12,3,10,15:05,7 f,2U CL2,"$12,900"
+,Broome Form Guide,2025-08-12,4,10,15:40,6 ½ f,2UFM BM58+,"$12,900"
+,Broome Form Guide,2025-08-12,5,11,16:20,6 ½ f,2U OPEN,"$25,800"
+,Broome Form Guide,2025-08-12,6,10,17:00,6 ½ f,2U BM50+,"$12,900"
+,Riccarton Park Form Guide,2025-08-02,1,8,19:20,1 ¹⁵⁄₁₆ m,MHDL,"$17,752"
+,Riccarton Park Form Guide,2025-08-02,2,8,19:55,1 ¹⁵⁄₁₆ m,OHDL,"$29,587"
+,Riccarton Park Form Guide,2025-08-02,3,7,20:28,6 f,3 SWP,"$20,710"
+,Riccarton Park Form Guide,2025-08-02,4,8,21:00,6 f,OPEN,"$26,628"
+,Riccarton Park Form Guide,2025-08-02,5,9,21:39,2 ⅝ m,OSTPL,"$29,587"
+,Riccarton Park Form Guide,2025-08-02,6,15,22:23,6 f,BM65,"$20,710"
+,Riccarton Park Form Guide,2025-08-02,7,7,22:57,7 f,BM75,"$20,710"
+,Riccarton Park Form Guide,2025-08-02,8,17,23:32,1 m,BM65,"$20,710"
+,Riccarton Park Form Guide,2025-08-02,9,16,12:07,1 m,CUP G3,"$65,091"
+,Riccarton Park Form Guide,2025-08-02,10,13,12:41,1 ⅛ m,BM75,"$20,710"
+,Ruakaka Form Guide,2025-08-02,1,7,20:45,5 ½ f,3 SWP,"$20,710"
+,Ruakaka Form Guide,2025-08-02,2,12,21:18,6 f,MDN,"$11,835"
+,Ruakaka Form Guide,2025-08-02,3,10,21:54,6 ½ f,BM65,"$20,710"
+,Ruakaka Form Guide,2025-08-02,4,10,22:30,6 ½ f,BM65,"$20,710"
+,Ruakaka Form Guide,2025-08-02,5,13,23:05,1 m,MDN,"$11,835"
+,Ruakaka Form Guide,2025-08-02,6,7,23:40,1 m,BM75,"$20,710"
+,Ruakaka Form Guide,2025-08-02,7,11,12:25,1 ⁵⁄₁₆ m,BM65,"$20,710"
+,Cambridge Form Guide,2025-08-08,1,5,20:55,7 ¾ f,BM67,"$10,059"
+,Cambridge Form Guide,2025-08-08,2,11,21:30,7 ¾ f,MDN,"$10,059"
+,Cambridge Form Guide,2025-08-08,3,7,22:03,6 ½ f,BM64,"$10,059"
+,Cambridge Form Guide,2025-08-08,4,10,22:39,6 ½ f,MDN,"$10,059"
+,Cambridge Form Guide,2025-08-08,5,7,23:15,4 ¾ f,BM67,"$10,059"
+,Cambridge Form Guide,2025-08-08,6,10,23:47,1 ¼ m,BM70,"$14,793"
+,Cambridge Form Guide,2025-08-08,7,12,12:19,1 ¼ m,SWP,"$59,174"
+,Riccarton Park Form Guide | Today,2025-08-09,1,5,19:25,1 ¹⁵⁄₁₆ m,HCP0-1,"$23,669"
+,Riccarton Park Form Guide | Today,2025-08-09,2,7,20:00,2 ⅝ m,OHDL,"$59,174"
+,Riccarton Park Form Guide | Today,2025-08-09,3,9,20:35,6 f,BM75,"$20,710"
+,Riccarton Park Form Guide | Today,2025-08-09,4,8,21:10,1 ¼ m,BM75,"$20,710"
+,Riccarton Park Form Guide | Today,2025-08-09,5,9,21:47,1 m,BM75,"$20,710"
+,Riccarton Park Form Guide | Today,2025-08-09,6,7,22:22,3 ½ m,OSTPL,"$118,348"
+,Riccarton Park Form Guide | Today,2025-08-09,7,8,23:02,7 f,OPEN,"$26,628"
+,Riccarton Park Form Guide | Today,2025-08-09,8,13,23:37,7 f,BM65,"$20,710"
+,Riccarton Park Form Guide | Today,2025-08-09,9,11,12:12,1 ⅛ m,OPEN,"$26,628"
+,Riccarton Park Form Guide | Today,2025-08-09,10,18,12:46,1 ⅛ m,BM65,"$20,710"
+,Te Rapa Form Guide | Today,2025-08-09,1,11,20:20,6 ½ f,MDN,"$11,835"
+,Te Rapa Form Guide | Today,2025-08-09,2,9,20:52,6 f,BM65,"$20,710"
+,Te Rapa Form Guide | Today,2025-08-09,3,14,21:24,1 m,BM65,"$20,710"
+,Te Rapa Form Guide | Today,2025-08-09,4,13,21:59,1 ⁵⁄₁₆ m,MDN,"$11,835"
+,Te Rapa Form Guide | Today,2025-08-09,5,13,22:35,1 ⁵⁄₁₆ m,BM75,"$20,710"
+,Te Rapa Form Guide | Today,2025-08-09,6,9,23:10,1 m,OPEN,"$23,669"
+,Te Rapa Form Guide | Today,2025-08-09,7,8,23:45,6 f,OPEN,"$23,669"
+,Te Rapa Form Guide | Today,2025-08-09,8,11,12:20,7 f,BM75,"$20,710"
+,Hawera Form Guide,2025-08-10,1,5,20:24,1 ⁵⁄₁₆ m,OPEN,"$13,018"
+,Hawera Form Guide,2025-08-10,2,12,20:57,1 ⁵⁄₁₆ m,MDN,"$10,059"
+,Hawera Form Guide,2025-08-10,3,12,21:28,6 f,MDN,"$10,059"
+,Hawera Form Guide,2025-08-10,4,9,22:05,7 f,MDN,"$10,059"
+,Hawera Form Guide,2025-08-10,5,11,22:44,1 m,MDN,"$10,059"
+,Hawera Form Guide,2025-08-10,6,10,23:22,1 m,BM75,"$10,059"
+,Hawera Form Guide,2025-08-10,7,10,23:54,1 m,BM65,"$10,059"
+,Seoul Form Guide,2025-08-02,1,11,21:35,5 f,COND A C6,"$32,773"
+,Seoul Form Guide,2025-08-02,2,11,22:10,6 f,COND A C6,"$21,848"
+,Seoul Form Guide,2025-08-02,3,11,23:15,6 f,HCP C5,"$32,773"
+,Seoul Form Guide,2025-08-02,4,9,12:25,7 f,HCP C5,"$32,773"
+,Seoul Form Guide,2025-08-02,5,9,13:30,7 f,HCP C4,"$43,698"
+,Seoul Form Guide,2025-08-02,6,9,14:40,7 f,HCP C4,"$43,698"
+,Seoul Form Guide,2025-08-02,7,9,15:50,1 ⅛ m,HCP C3,"$54,623"
+,Seoul Form Guide,2025-08-02,8,10,16:25,6 f,HCP C3,"$54,623"
+,Seoul Form Guide,2025-08-02,9,9,17:00,1 m,HCP C2,"$65,547"
+,Busan Form Guide,2025-08-02,1,11,22:35,6 f,COND A C6,"$21,848"
+,Busan Form Guide,2025-08-02,2,11,23:55,6 ½ f,COND A C6,"$21,848"
+,Busan Form Guide,2025-08-02,3,11,12:55,7 f,HCP C5,"$32,773"
+,Busan Form Guide,2025-08-02,4,11,14:05,1 ⅛ m,HCP C4,"$43,698"
+,Busan Form Guide,2025-08-02,5,9,15:15,6 f,COND B C1,"$80,114"
+,Seoul Form Guide,2025-08-03,1,12,21:35,6 f,COND A C6,"$32,331"
+,Seoul Form Guide,2025-08-03,2,11,22:05,6 f,COND A C6,"$21,553"
+,Seoul Form Guide,2025-08-03,3,11,22:35,6 ½ f,COND A C6,"$21,553"
+,Seoul Form Guide,2025-08-03,4,9,23:20,6 ½ f,HCP C5,"$32,331"
+,Seoul Form Guide,2025-08-03,5,8,23:55,6 f,HCP C5,"$32,331"
+,Seoul Form Guide,2025-08-03,6,8,12:25,1 ¹⁄₁₆ m,HCP C5,"$32,331"
+,Seoul Form Guide,2025-08-03,7,8,12:55,1 ¹⁄₁₆ m,HCP C5,"$32,331"
+,Seoul Form Guide,2025-08-03,8,9,13:30,1 ¹⁄₁₆ m,HCP C4,"$43,108"
+,Seoul Form Guide,2025-08-03,9,11,14:05,6 f,HCP C4,"$43,108"
+,Seoul Form Guide,2025-08-03,10,11,14:40,7 f,HCP C3,"$53,885"
+,Seoul Form Guide,2025-08-03,11,11,15:15,1 ¼ m,OPEN,"$502,940"
+,Seoul Form Guide,2025-08-03,12,11,15:50,6 f,HCP C2,"$64,663"
+,Seoul Form Guide,2025-08-03,13,10,16:25,1 m,HCP C4,"$43,108"
+,Seoul Form Guide,2025-08-03,14,10,17:00,1 m,HCP C1,"$79,033"
+,Busan Form Guide | Today,2025-08-09,1,8,21:35,5 f,COND A C6,"$32,331"
+,Busan Form Guide | Today,2025-08-09,2,10,22:05,6 f,COND A C6,"$21,553"
+,Busan Form Guide | Today,2025-08-09,3,8,23:20,6 ½ f,COND A C6,"$21,553"
+,Busan Form Guide | Today,2025-08-09,4,10,12:25,6 ½ f,HCP C5,"$32,331"
+,Busan Form Guide | Today,2025-08-09,5,10,13:30,6 f,HCP C5,"$32,331"
+,Busan Form Guide | Today,2025-08-09,6,10,14:40,1 m,HCP C5,"$32,331"
+,Busan Form Guide | Today,2025-08-09,7,10,15:50,1 m,HCP C5,"$32,331"
+,Busan Form Guide | Today,2025-08-09,8,9,16:25,7 f,HCP C4,"$43,108"
+,Busan Form Guide | Today,2025-08-09,9,11,17:00,1 ⅛ m,HCP C3,"$53,885"
+,Busan Form Guide,2025-08-10,1,10,21:35,6 f,COND A C6,"$32,331"
+,Busan Form Guide,2025-08-10,2,10,22:05,6 ½ f,COND A C6,"$21,553"
+,Busan Form Guide,2025-08-10,3,8,22:35,7 f,COND A C6,"$21,553"
+,Busan Form Guide,2025-08-10,4,11,23:15,7 f,HCP C5,"$32,331"
+,Busan Form Guide,2025-08-10,5,9,23:55,6 ½ f,HCP C5,"$32,331"
+,Busan Form Guide,2025-08-10,6,8,12:25,6 f,HCP C5,"$32,331"
+,Busan Form Guide,2025-08-10,7,8,12:55,1 ⅛ m,HCP C5,"$32,331"
+,Busan Form Guide,2025-08-10,8,8,13:30,1 ⅛ m,HCP C5,"$32,331"
+,Busan Form Guide,2025-08-10,9,9,14:05,1 ⅛ m,HCP C4,"$43,108"
+,Busan Form Guide,2025-08-10,10,10,14:40,6 f,HCP C4,"$43,108"
+,Busan Form Guide,2025-08-10,11,11,15:15,6 f,HCP C3,"$53,885"
+,Busan Form Guide,2025-08-10,12,11,15:50,7 f,HCP C3,"$53,885"
+,Busan Form Guide,2025-08-10,13,9,16:25,1 m,HCP C4,"$43,108"
+,Busan Form Guide,2025-08-10,14,10,17:00,1 m,HCP C2,"$64,663"
+,Kawasaki Form Guide,2025-08-04,1,8,14:00,7 f,3 COND,"$15,234"
+,Kawasaki Form Guide,2025-08-04,2,10,14:30,7 ½ f,3 COND,"$17,773"
+,Kawasaki Form Guide,2025-08-04,3,10,15:00,7 f,2 COND,"$27,930"
+,Kawasaki Form Guide,2025-08-04,4,12,15:30,4 ½ f,3 COND,"$17,773"
+,Kawasaki Form Guide,2025-08-04,5,9,16:00,7 f,C3,"$10,156"
+,Kawasaki Form Guide,2025-08-04,6,11,16:30,7 f,C3,"$10,156"
+,Kawasaki Form Guide,2025-08-04,7,11,17:00,4 ½ f,C2,"$12,695"
+,Kawasaki Form Guide,2025-08-04,8,12,17:30,7 ½ f,C3,"$10,156"
+,Kawasaki Form Guide,2025-08-04,9,11,18:05,4 ½ f,C1,"$15,234"
+,Kawasaki Form Guide,2025-08-04,10,7,18:40,1 ¼ m,B2B3,"$34,277"
+,Kawasaki Form Guide,2025-08-04,11,12,19:15,4 ½ f,B1B2,"$34,277"
+,Kawasaki Form Guide,2025-08-04,12,12,19:50,7 ½ f,B3,"$30,469"
+,Kawasaki Form Guide,2025-08-05,1,9,14:00,7 f,3 COND,"$17,773"
+,Kawasaki Form Guide,2025-08-05,2,9,14:30,7 f,2 COND,"$25,391"
+,Kawasaki Form Guide,2025-08-05,3,9,15:00,4 ½ f,C3,"$10,156"
+,Kawasaki Form Guide,2025-08-05,4,8,15:30,7 f,2 COND,"$31,739"
+,Kawasaki Form Guide,2025-08-05,5,12,16:00,7 f,C3,"$15,234"
+,Kawasaki Form Guide,2025-08-05,6,10,16:30,7 ½ f,C3,"$15,234"
+,Kawasaki Form Guide,2025-08-05,7,8,17:00,7 f,C2,"$12,695"
+,Kawasaki Form Guide,2025-08-05,8,11,17:30,7 f,C2,"$12,695"
+,Kawasaki Form Guide,2025-08-05,9,9,18:05,7 ½ f,C2,"$12,695"
+,Kawasaki Form Guide,2025-08-05,10,6,18:40,1 ¼ m,4 COND,"$76,173"
+,Kawasaki Form Guide,2025-08-05,11,9,19:15,7 ½ f,B2B3,"$34,277"
+,Kawasaki Form Guide,2025-08-05,12,9,19:50,4 ½ f,C1,"$15,234"
+,Mombetsu,2025-08-06,1,12,13:25,5 f,2 COND,"$5,679"
+,Mombetsu,2025-08-06,2,12,13:55,6 f,2 COND,"$5,679"
+,Mombetsu,2025-08-06,3,11,14:25,5 f,2 COND,"$13,630"
+,Mombetsu,2025-08-06,4,7,15:05,1 ¹⁄₁₆ m,3 C4,"$4,543"
+,Mombetsu,2025-08-06,5,7,15:35,5 ½ f,2 COND,"$28,398"
+,Mombetsu,2025-08-06,6,12,16:05,6 f,C1,"$6,247"
+,Mombetsu,2025-08-06,7,12,16:40,5 f,C3,"$6,247"
+,Mombetsu,2025-08-06,8,12,17:15,1 ¹⁄₁₆ m,B4,"$7,383"
+,Mombetsu,2025-08-06,9,12,17:50,6 f,C4,"$6,247"
+,Mombetsu,2025-08-06,10,12,18:25,5 f,C4,"$6,247"
+,Mombetsu,2025-08-06,11,8,19:00,5 f,C1,"$6,247"
+,Mombetsu,2025-08-06,12,12,19:35,5 f,B3,"$7,383"
+,Kawasaki Form Guide,2025-08-06,1,11,14:00,4 ½ f,3 COND,"$15,234"
+,Kawasaki Form Guide,2025-08-06,2,8,14:30,7 ½ f,2 COND,"$38,086"
+,Kawasaki Form Guide,2025-08-06,3,9,15:00,4 ½ f,C3,"$10,156"
+,Kawasaki Form Guide,2025-08-06,4,8,15:30,7 f,C2,"$12,695"
+,Kawasaki Form Guide,2025-08-06,5,9,16:00,7 ½ f,C2,"$12,695"
+,Kawasaki Form Guide,2025-08-06,6,11,16:30,7 f,3 C1,"$31,739"
+,Kawasaki Form Guide,2025-08-06,7,10,17:00,7 ½ f,3 C1,"$31,739"
+,Kawasaki Form Guide,2025-08-06,8,9,17:30,7 f,C1,"$22,851"
+,Kawasaki Form Guide,2025-08-06,9,9,18:05,7 ½ f,C1,"$22,851"
+,Kawasaki Form Guide,2025-08-06,10,11,18:40,7 ½ f,C1,"$22,851"
+,Kawasaki Form Guide,2025-08-06,11,10,19:15,1 ¼ m,3 COND,"$60,136"
+,Kawasaki Form Guide,2025-08-06,12,9,19:50,4 ½ f,B3,"$26,660"
+,Mombetsu,2025-08-07,1,10,13:25,7 ½ f,2 COND,"$5,679"
+,Mombetsu,2025-08-07,2,11,13:55,5 f,2 COND,"$5,679"
+,Mombetsu,2025-08-07,3,10,14:30,6 f,2 COND,"$13,630"
+,Mombetsu,2025-08-07,4,9,15:05,5 f,2 COND,"$28,398"
+,Mombetsu,2025-08-07,5,11,15:35,6 f,3 C4,"$4,543"
+,Mombetsu,2025-08-07,6,12,16:05,5 f,3 C4,"$4,543"
+,Mombetsu,2025-08-07,7,9,16:40,5 f,3 C4,"$4,543"
+,Mombetsu,2025-08-07,8,12,17:15,5 f,C3,"$6,247"
+,Mombetsu,2025-08-07,9,7,17:50,1 ¹⁄₁₆ m,C2,"$6,247"
+,Mombetsu,2025-08-07,10,12,18:25,6 f,C3,"$6,247"
+,Mombetsu,2025-08-07,11,10,19:00,6 f,B3,"$7,383"
+,Mombetsu,2025-08-07,12,7,19:35,6 f,2 COND,"$45,436"
+,Kawasaki Form Guide,2025-08-07,1,12,14:00,1 m,3 COND,"$25,391"
+,Kawasaki Form Guide,2025-08-07,2,10,14:30,7 f,C2,"$19,043"
+,Kawasaki Form Guide,2025-08-07,3,11,15:00,7 f,C2,"$19,043"
+,Kawasaki Form Guide,2025-08-07,4,8,15:30,4 ½ f,2 COND,"$53,321"
+,Kawasaki Form Guide,2025-08-07,5,8,16:00,4 ½ f,2 COND,"$53,321"
+,Kawasaki Form Guide,2025-08-07,6,10,16:30,7 f,C1,"$15,234"
+,Kawasaki Form Guide,2025-08-07,7,12,17:03,7 ½ f,C1,"$15,234"
+,Kawasaki Form Guide,2025-08-07,8,9,17:32,7 ½ f,C2,"$19,043"
+,Kawasaki Form Guide,2025-08-07,9,7,18:05,1 m,B3,"$30,469"
+,Kawasaki Form Guide,2025-08-07,10,6,18:40,7 ½ f,A2B1,"$50,782"
+,Kawasaki Form Guide,2025-08-07,11,10,19:15,7 f,2 COND,"$60,136"
+,Kawasaki Form Guide,2025-08-07,12,14,19:50,1 ¼ m,C1C2,"$22,851"
+,Kawasaki Form Guide,2025-08-08,1,6,14:00,7 f,2 COND,"$25,391"
+,Kawasaki Form Guide,2025-08-08,2,7,14:30,7 f,2 COND,"$25,391"
+,Kawasaki Form Guide,2025-08-08,3,9,15:00,4 ½ f,C2,"$12,695"
+,Kawasaki Form Guide,2025-08-08,4,6,15:30,7 f,2 COND,"$53,321"
+,Kawasaki Form Guide,2025-08-08,5,8,16:00,7 f,2 COND,"$53,321"
+,Kawasaki Form Guide,2025-08-08,6,7,16:30,7 f,3 COND,"$15,234"
+,Kawasaki Form Guide,2025-08-08,7,10,17:00,7 ½ f,3 COND,"$17,773"
+,Kawasaki Form Guide,2025-08-08,8,12,17:30,7 f,C3,"$10,156"
+,Kawasaki Form Guide,2025-08-08,9,14,18:05,7 ½ f,C1,"$15,234"
+,Kawasaki Form Guide,2025-08-08,10,11,18:40,7 f,B3,"$30,469"
+,Kawasaki Form Guide,2025-08-08,11,8,19:15,1 m,B1B2,"$38,086"
+,Kawasaki Form Guide,2025-08-08,12,10,19:50,7 f,C1,"$15,234"
+,Tokyo City Keiba,2025-08-10,1,11,15:25,7 f,C3,"$10,156"
+,Tokyo City Keiba,2025-08-10,2,7,16:00,7 f,2 COND,"$57,130"
+,Tokyo City Keiba,2025-08-10,3,9,16:35,6 f,2 COND,"$57,130"
+,Tokyo City Keiba,2025-08-10,4,12,17:10,6 f,3 COND,"$19,043"
+,Tokyo City Keiba,2025-08-10,5,8,17:50,1 ⅛ m,3 COND,"$19,043"
+,Tokyo City Keiba,2025-08-10,6,12,18:30,1 ⅛ m,C2,"$22,851"
+,Tokyo City Keiba,2025-08-10,7,11,19:10,6 f,B1,"$60,938"
+,Tokyo City Keiba,2025-08-10,8,12,19:50,7 f,B3,"$48,242"
+,Palermo Form Guide,2025-08-11,1,9,13:00,6 ½ f,56 MDN,"$4,262"
+,Palermo Form Guide,2025-08-11,2,9,13:30,7 f,3CG MDN,"$8,951"
+,Palermo Form Guide,2025-08-11,3,9,14:00,7 f,3FM MDN,"$8,951"
+,Palermo Form Guide,2025-08-11,4,13,14:30,5 f,4FM MDN,"$3,196"
+,Palermo Form Guide,2025-08-11,5,8,15:00,7 f,3CG MDN,"$8,951"
+,Palermo Form Guide,2025-08-11,6,11,15:30,7 f,69FM HCP,"$4,262"
+,Palermo Form Guide,2025-08-11,7,8,16:00,5 f,59FM,"$2,628"
+,Palermo Form Guide,2025-08-11,8,9,16:30,6 ½ f,56 MDN,"$4,262"
+,Palermo Form Guide,2025-08-11,9,5,17:00,6 f,49FM,"$10,742"
+,Palermo Form Guide,2025-08-11,10,9,17:30,1 m,5U,"$5,967"
+,Palermo Form Guide,2025-08-11,11,12,18:00,7 f,4,"$3,693"
+,Palermo Form Guide,2025-08-11,12,16,18:30,7 f,4,"$3,410"
+,Tagliacozzo Form Guide,2025-08-03,1,5,22:15,6 ¾ f,3 HANDICAP,"$5,242"
+,Tagliacozzo Form Guide,2025-08-03,2,6,22:50,5 f,3U APP HANDICAP,"$5,824"
+,Tagliacozzo Form Guide,2025-08-03,3,7,23:25,1 ⁵⁄₁₆ m,3 HANDICAP,"$9,553"
+,Tagliacozzo Form Guide,2025-08-03,4,9,12:00,6 ¾ f,2 SELLER,"$5,824"
+,Tagliacozzo Form Guide,2025-08-03,5,9,12:35,1 ⁵⁄₁₆ m,3U PREMIERE HANDICAP,"$22,135"
+,Tagliacozzo Form Guide,2025-08-03,6,13,13:10,1 m,3U HANDICAP,"$13,979"
+,Albenga Form Guide,2025-08-05,1,6,14:18,1 ¼ m,3 STAKES,"$9,319"
+,Albenga Form Guide,2025-08-05,2,6,14:43,1 m,2 STAKES,"$8,154"
+,Albenga Form Guide,2025-08-05,3,7,15:13,1 m,5U GENTLEMAN DRIVER CLASS F,"$4,659"
+,Albenga Form Guide,2025-08-05,4,9,15:38,1 m,4 GENTLEMAN DRIVER CLAIMER,"$4,077"
+,Albenga Form Guide,2025-08-05,5,6,16:03,1 m,3 STAKES,"$6,989"
+,Albenga Form Guide,2025-08-05,6,6,16:28,1 m,5U CLASS G,"$3,611"
+,Albenga Form Guide,2025-08-05,7,6,16:53,1 ¼ m,5U CLASS E,"$5,824"
+,Montecatini Form Guide,2025-08-08,1,10,14:43,1 m,5U GENTLEMAN DRIVER CLASS EF,"$5,125"
+,Montecatini Form Guide,2025-08-08,2,9,15:08,1 m,4 STAKES,"$4,892"
+,Montecatini Form Guide,2025-08-08,3,11,15:33,1 m,5U CLASS G,"$3,261"
+,Montecatini Form Guide,2025-08-08,4,15,16:00,1 m,3 MAIDEN,"$5,824"
+,Montecatini Form Guide,2025-08-08,5,11,16:28,1 m,5U CLAIMER,"$3,611"
+,Montecatini Form Guide,2025-08-08,6,10,16:50,1 m,5U CLASS DE,"$6,407"
+,Montecatini Form Guide,2025-08-08,7,9,17:15,1 m,4 STAKES,"$4,659"
+,Tagliacozzo Form Guide | Today,2025-08-09,1,5,22:05,1 m,3 SELLER,"$4,659"
+,Tagliacozzo Form Guide | Today,2025-08-09,2,5,22:40,1 ⁵⁄₁₆ m,3U APP HANDICAP,"$4,236"
+,Tagliacozzo Form Guide | Today,2025-08-09,3,5,23:15,5 f,3 HANDICAP,"$5,242"
+,Tagliacozzo Form Guide | Today,2025-08-09,4,5,23:40,1 ³⁄₁₆ m,3 MAIDEN,"$6,989"
+,Tagliacozzo Form Guide | Today,2025-08-09,5,8,12:25,1 m,3U HANDICAP,"$4,659"
+,Tagliacozzo Form Guide | Today,2025-08-09,6,9,13:00,1 ³⁄₁₆ m,4U SELLER,"$4,659"
+,Chile Form Guide,2025-08-02,1,14,12:30,6 f,HCP,"$3,246"
+,Chile Form Guide,2025-08-02,2,14,12:55,5 f,MDN,"$4,444"
+,Chile Form Guide,2025-08-02,3,9,13:20,5 f,MDN,"$4,444"
+,Chile Form Guide,2025-08-02,4,11,13:46,6 f,HCP,"$3,246"
+,Chile Form Guide,2025-08-02,5,15,14:11,5 f,MDN,"$4,444"
+,Chile Form Guide,2025-08-02,6,7,14:36,5 f,MDN,"$4,562"
+,Chile Form Guide,2025-08-02,7,12,15:03,6 f,HCP,"$3,246"
+,Chile Form Guide,2025-08-02,8,15,15:28,6 ½ f,MDN,"$5,925"
+,Chile Form Guide,2025-08-02,9,10,15:53,6 f,STK ClCd,"$10,076"
+,Chile Form Guide,2025-08-02,10,8,16:18,5 f,HCP,"$4,822"
+,Chile Form Guide,2025-08-02,11,13,16:46,7 ½ f,STK G3,"$10,465"
+,Chile Form Guide,2025-08-02,12,14,17:12,6 f,HCP,"$3,279"
+,Chile Form Guide,2025-08-02,13,10,17:38,7 f,MDN,"$6,043"
+,Chile Form Guide,2025-08-02,14,14,18:04,1 m,HCP,"$5,527"
+,Chile Form Guide,2025-08-02,15,15,18:34,6 f,HCP,"$3,246"
+,Chile Form Guide,2025-08-02,16,15,19:02,6 f,HCP,"$3,279"
+,Chile Form Guide,2025-08-02,17,14,19:30,6 f,HCP,"$4,427"
+,Chile Form Guide,2025-08-02,18,13,20:02,6 f,HCP,"$4,034"
+,Chile Form Guide,2025-08-02,19,15,20:31,6 f,HCP,"$3,279"
+,Chile Form Guide,2025-08-02,20,14,21:00,6 f,HCP,"$4,247"
+,Chile Form Guide,2025-08-07,1,13,12:30,5 f,HCP,"$2,695"
+,Chile Form Guide,2025-08-07,2,10,12:55,5 f,MDN,"$4,322"
+,Chile Form Guide,2025-08-07,3,10,13:20,6 ½ f,MDN,"$5,763"
+,Chile Form Guide,2025-08-07,4,15,13:46,5 f,HCP,"$2,695"
+,Chile Form Guide,2025-08-07,5,11,14:11,5 f,MDN,"$4,322"
+,Chile Form Guide,2025-08-07,6,10,14:36,5 f,HCP,"$2,695"
+,Chile Form Guide,2025-08-07,7,14,15:03,5 f,HCP,"$2,695"
+,Chile Form Guide,2025-08-07,8,8,15:28,7 f,MDN,"$5,878"
+,Chile Form Guide,2025-08-07,9,9,15:53,5 f,HCP,"$2,695"
+,Chile Form Guide,2025-08-07,10,7,16:18,1 ¼ m,STK G3,"$14,335"
+,Chile Form Guide,2025-08-07,11,12,16:46,5 f,HCP,"$2,695"
+,Chile Form Guide,2025-08-07,12,11,17:12,6 f,STK PR,"$6,070"
+,Chile Form Guide,2025-08-07,13,12,17:38,5 f,HCP,"$3,589"
+,Chile Form Guide,2025-08-07,14,13,18:04,7 f,HCP,"$4,625"
+,Chile Form Guide,2025-08-07,15,15,18:34,5 f,HCP,"$3,062"
+,Chile Form Guide,2025-08-07,16,14,19:02,5 f,HCP,"$3,062"
+,Chile Form Guide,2025-08-07,17,13,19:30,5 f,HCP,"$4,068"
+,Chile Form Guide,2025-08-07,18,14,20:02,5 f,HCP,"$3,062"
+,Chile Form Guide,2025-08-07,19,13,20:31,5 f,HCP,"$4,099"
+,Chile Form Guide,2025-08-07,20,14,21:00,5 f,HCP,"$3,062"
+,Chile Form Guide | Today,2025-08-09,1,15,12:30,6 f,HCP,"$3,158"
+,Chile Form Guide | Today,2025-08-09,2,11,12:55,5 f,MDN,"$4,322"
+,Chile Form Guide | Today,2025-08-09,3,9,13:20,7 ½ f,MDN,"$5,878"
+,Chile Form Guide | Today,2025-08-09,4,14,13:46,6 f,HCP,"$3,158"
+,Chile Form Guide | Today,2025-08-09,5,12,14:11,6 f,MDN,"$5,763"
+,Chile Form Guide | Today,2025-08-09,6,11,14:36,7 f,HCP,"$3,812"
+,Chile Form Guide | Today,2025-08-09,7,15,15:03,6 f,HCP,"$3,158"
+,Chile Form Guide | Today,2025-08-09,8,14,15:28,7 f,HCP,"$3,604"
+,Chile Form Guide | Today,2025-08-09,9,10,15:53,6 f,STK ClCd,"$9,800"
+,Chile Form Guide | Today,2025-08-09,10,5,16:17,1 ³⁄₁₆ m,HCP,"$7,018"
+,Chile Form Guide | Today,2025-08-09,11,15,16:46,6 f,HCP,"$3,158"
+,Chile Form Guide | Today,2025-08-09,12,10,17:11,7 f,STK CH,"$7,609"
+,Chile Form Guide | Today,2025-08-09,13,13,17:37,6 f,HCP,"$3,158"
+,Chile Form Guide | Today,2025-08-09,14,14,18:03,6 f,HCP,"$3,924"
+,Chile Form Guide | Today,2025-08-09,15,15,18:34,6 f,HCP,"$3,190"
+,Chile Form Guide | Today,2025-08-09,16,15,19:02,6 f,HCP,"$3,190"
+,Chile Form Guide | Today,2025-08-09,17,14,19:30,7 f,HCP,"$5,870"
+,Chile Form Guide | Today,2025-08-09,18,15,20:02,6 f,HCP,"$4,131"
+,Chile Form Guide | Today,2025-08-09,19,15,20:31,6 f,HCP,"$3,924"
+,Chile Form Guide | Today,2025-08-09,20,14,21:00,6 f,HCP,"$4,307"
+,Taree Super Track Form Guide,2025-08-02,1,8,18:06,328y,Maiden,
+,Taree Super Track Form Guide,2025-08-02,2,8,18:23,328y,Maiden,
+,Taree Super Track Form Guide,2025-08-02,3,8,18:38,328y,Maiden,
+,Taree Super Track Form Guide,2025-08-02,4,8,18:54,328y,5th Grade,
+,Taree Super Track Form Guide,2025-08-02,5,8,19:29,328y,5th Grade,
+,Taree Super Track Form Guide,2025-08-02,6,7,19:45,328y,5th Grade,
+,Taree Super Track Form Guide,2025-08-02,7,8,20:00,328y,4th/5th Grade,
+,Taree Super Track Form Guide,2025-08-02,8,8,20:17,328y,NG1-4,
+,Taree Super Track Form Guide,2025-08-02,9,7,20:37,328y,3rd/4th Grade,
+,Taree Super Track Form Guide,2025-08-02,10,8,20:52,328y,5th Grade,
+,Taree Super Track Form Guide,2025-08-02,11,8,21:07,328y,5th Grade,
+,Angle Park Form Guide,2025-08-02,1,6,18:41,374y,Maiden,
+,Angle Park Form Guide,2025-08-02,2,5,18:57,374y,Maiden,
+,Angle Park Form Guide,2025-08-02,3,6,19:17,374y,TG1-4W,
+,Angle Park Form Guide,2025-08-02,4,6,19:36,374y,TG1-4W,
+,Angle Park Form Guide,2025-08-02,5,5,19:51,374y,TG1-4W,
+,Angle Park Form Guide,2025-08-02,6,6,20:07,374y,TG1-4W,
+,Angle Park Form Guide,2025-08-02,7,5,20:23,374y,TG1-4W,
+,Angle Park Form Guide,2025-08-02,8,6,20:40,374y,Other,
+,Angle Park Form Guide,2025-08-02,9,6,20:55,374y,Other,
+,Angle Park Form Guide,2025-08-02,10,6,21:10,374y,Other,
+,Manukau Form Guide,2025-08-03,1,7,20:52,347y,C1,"$1,715"
+,Manukau Form Guide,2025-08-03,2,6,21:15,347y,C0,"$1,656"
+,Manukau Form Guide,2025-08-03,3,7,21:38,347y,C1,"$1,715"
+,Manukau Form Guide,2025-08-03,4,6,22:00,576y,C1,"$2,425"
+,Manukau Form Guide,2025-08-03,5,7,22:23,347y,C2,"$1,775"
+,Manukau Form Guide,2025-08-03,6,5,22:46,576y,C2/3,"$2,839"
+,Manukau Form Guide,2025-08-03,7,7,23:03,347y,C2/3,"$1,893"
+,Manukau Form Guide,2025-08-03,8,7,23:26,347y,C4/5,"$2,603"
+,Manukau Form Guide,2025-08-03,9,5,23:50,576y,C4/5,"$3,727"
+,Manukau Form Guide,2025-08-03,10,7,12:14,347y,C4,"$2,071"
+,Healesville Form Guide,2025-08-03,1,7,21:19,382y,Maiden Heat,
+,Healesville Form Guide,2025-08-03,2,8,21:41,382y,Maiden Heat,
+,Healesville Form Guide,2025-08-03,3,8,21:57,328y,Grade 5,
+,Healesville Form Guide,2025-08-03,4,8,22:12,382y,Grade 5,
+,Healesville Form Guide,2025-08-03,5,7,22:32,382y,Grade 5,
+,Healesville Form Guide,2025-08-03,6,6,22:52,382y,Free For All,
+,Healesville Form Guide,2025-08-03,7,8,23:12,382y,Grade 5,
+,Healesville Form Guide,2025-08-03,8,8,23:32,382y,Grade 5,
+,Healesville Form Guide,2025-08-03,9,7,23:52,382y,Restricted Win,
+,Healesville Form Guide,2025-08-03,10,6,12:12,328y,Mixed 6/7,
+,Healesville Form Guide,2025-08-03,11,8,12:32,328y,Mixed 4/5,
+,Healesville Form Guide,2025-08-03,12,8,12:52,328y,Grade 5,
+,Capalaba Form Guide,2025-08-03,1,4,21:50,400y,Maiden,
+,Capalaba Form Guide,2025-08-03,2,6,22:09,400y,Maiden,
+,Capalaba Form Guide,2025-08-03,3,7,22:26,400y,Maiden,
+,Capalaba Form Guide,2025-08-03,4,8,22:43,400y,6th Grade,
+,Capalaba Form Guide,2025-08-03,5,8,23:05,400y,M5,
+,Capalaba Form Guide,2025-08-03,6,8,23:24,400y,5th Grade,
+,Capalaba Form Guide,2025-08-03,7,8,23:39,400y,5th Grade,
+,Capalaba Form Guide,2025-08-03,8,8,12:04,400y,5th Grade,
+,Capalaba Form Guide,2025-08-03,9,6,12:19,400y,M5,
+,Mt Gambier Form Guide,2025-08-03,1,5,22:29,437y,Maiden/6th Grade,
+,Mt Gambier Form Guide,2025-08-03,2,6,22:49,333y,Maiden,
+,Mt Gambier Form Guide,2025-08-03,3,5,23:09,333y,6th Grade,
+,Mt Gambier Form Guide,2025-08-03,4,6,23:28,656y,3rd/4th/5th Grade,
+,Mt Gambier Form Guide,2025-08-03,5,5,23:47,437y,5th Grade,
+,Mt Gambier Form Guide,2025-08-03,6,6,12:08,437y,5th Grade,
+,Mt Gambier Form Guide,2025-08-03,7,6,12:29,560y,6th Grade,
+,Mt Gambier Form Guide,2025-08-03,8,6,12:49,560y,3rd/4th/5th Grade,
+,Mt Gambier Form Guide,2025-08-03,9,6,13:04,333y,5th Grade,
+,Mt Gambier Form Guide,2025-08-03,10,6,13:23,333y,5th Grade,
+,Mt Gambier Form Guide,2025-08-03,11,6,13:42,437y,6th Grade,
+,Mt Gambier Form Guide,2025-08-03,12,5,13:58,437y,OPEN,
+,Ballarat Form Guide,2025-08-04,1,8,20:40,426y,Tier 3 - Maiden,$986
+,Ballarat Form Guide,2025-08-04,2,8,20:56,426y,Grade 5 T3,$986
+,Ballarat Form Guide,2025-08-04,3,8,21:12,426y,Grade 5 T3,$986
+,Ballarat Form Guide,2025-08-04,4,8,21:28,492y,Grade 5 T3,$986
+,Ballarat Form Guide,2025-08-04,5,7,21:43,596y,Tier 3 - Maiden,"$1,122"
+,Ballarat Form Guide,2025-08-04,6,6,21:58,596y,Grade 5 T3,"$1,122"
+,Ballarat Form Guide,2025-08-04,7,5,22:16,596y,Tier 3 - Restricted Win,"$1,122"
+,Ballarat Form Guide,2025-08-04,8,7,22:38,596y,Grade 5 T3,"$1,122"
+,Ballarat Form Guide,2025-08-04,9,7,22:57,596y,Tier 3 - Restricted Win,"$1,122"
+,Ballarat Form Guide,2025-08-04,10,8,23:14,492y,Tier 3 - Restricted Win,$986
+,Ballarat Form Guide,2025-08-04,11,8,23:34,426y,Tier 3 - Grade 7,$986
+,Ballarat Form Guide,2025-08-04,12,8,23:57,426y,Tier 3 - Grade 6,$986
+,Addington Form Guide,2025-08-04,1,7,21:23,322y,C1,"$1,715"
+,Addington Form Guide,2025-08-04,2,7,21:39,322y,C1,"$1,715"
+,Addington Form Guide,2025-08-04,3,7,21:55,322y,C1,"$1,715"
+,Addington Form Guide,2025-08-04,4,7,22:11,322y,C1,"$1,715"
+,Addington Form Guide,2025-08-04,5,7,22:27,322y,C1,"$1,715"
+,Addington Form Guide,2025-08-04,6,7,22:44,322y,C1,"$1,715"
+,Addington Form Guide,2025-08-04,7,7,23:07,322y,C1,"$1,715"
+,Addington Form Guide,2025-08-04,8,8,23:22,322y,C1f,"$1,715"
+,Addington Form Guide,2025-08-04,9,8,23:42,574y,C1,"$2,425"
+,Addington Form Guide,2025-08-04,10,7,23:57,322y,C1,"$1,715"
+,Addington Form Guide,2025-08-04,11,7,12:20,322y,C1,"$1,715"
+,Addington Form Guide,2025-08-04,12,6,12:37,322y,C1,"$1,715"
+,Shepparton Form Guide,2025-08-04,1,8,23:49,426y,Restricted Win,"$1,886"
+,Shepparton Form Guide,2025-08-04,2,8,12:10,426y,S/E Veteran,"$1,886"
+,Shepparton Form Guide,2025-08-04,3,8,12:28,426y,Grade 5,"$1,886"
+,Shepparton Form Guide,2025-08-04,4,8,12:53,492y,Mixed 6/7,"$1,886"
+,Shepparton Form Guide,2025-08-04,5,8,13:09,492y,Grade 5 Heat,"$1,886"
+,Shepparton Form Guide,2025-08-04,6,8,13:24,492y,Grade 5 Heat,"$1,886"
+,Shepparton Form Guide,2025-08-04,7,8,13:42,492y,Grade 5 Heat,"$1,886"
+,Shepparton Form Guide,2025-08-04,8,7,13:58,492y,Grade 5 Heat,"$1,886"
+,Shepparton Form Guide,2025-08-04,9,8,14:17,426y,Mixed 3/4,"$2,167"
+,Shepparton Form Guide,2025-08-04,10,8,14:36,426y,Grade 5,"$1,886"
+,Shepparton Form Guide,2025-08-04,11,8,14:51,426y,Grade 5,"$1,886"
+,Shepparton Form Guide,2025-08-04,12,8,15:10,426y,Grade 5,"$1,886"
+,Warrnambool Form Guide,2025-08-04,1,6,12:13,492y,Maiden,$986
+,Warrnambool Form Guide,2025-08-04,2,4,12:37,426y,Maiden,$986
+,Warrnambool Form Guide,2025-08-04,3,6,12:57,426y,Maiden,$986
+,Warrnambool Form Guide,2025-08-04,4,8,13:12,426y,Grade 7,$986
+,Warrnambool Form Guide,2025-08-04,5,5,13:37,492y,Mixed 4/5,$986
+,Warrnambool Form Guide,2025-08-04,6,6,13:55,492y,Grade 5,$986
+,Warrnambool Form Guide,2025-08-04,7,8,14:22,426y,Grade 6,$986
+,Warrnambool Form Guide,2025-08-04,8,8,14:39,492y,Mixed 6/7,$986
+,Warrnambool Form Guide,2025-08-04,9,6,15:02,426y,Mixed 4/5,$986
+,Warrnambool Form Guide,2025-08-04,10,6,15:26,426y,Grade 5,$986
+,Warrnambool Form Guide,2025-08-04,11,6,15:42,426y,Grade 5,$986
+,Warrnambool Form Guide,2025-08-04,12,5,16:05,426y,Grade 5,$986
+,Wagga Form Guide,2025-08-04,1,7,13:27,350y,Maiden,$674
+,Wagga Form Guide,2025-08-04,2,6,13:47,350y,5th Grade,$835
+,Wagga Form Guide,2025-08-04,3,6,14:12,350y,5th Grade,$835
+,Wagga Form Guide,2025-08-04,4,6,14:28,350y,4th Grade,$896
+,Wagga Form Guide,2025-08-04,5,6,14:54,350y,NG1-4,$951
+,Wagga Form Guide,2025-08-04,6,6,15:18,437y,NG1-4,$951
+,Wagga Form Guide,2025-08-04,7,7,15:34,350y,4th Grade,$896
+,Wagga Form Guide,2025-08-04,8,7,15:50,437y,4th Grade,$896
+,Wagga Form Guide,2025-08-04,9,7,16:12,350y,5th Grade,$835
+,Wagga Form Guide,2025-08-04,10,7,16:28,350y,5th Grade,$835
+,Northam Form Guide,2025-08-04,1,5,13:51,324y,Maiden Y,"$1,274"
+,Northam Form Guide,2025-08-04,2,8,14:09,324y,NOV Y,"$1,337"
+,Northam Form Guide,2025-08-04,3,8,14:25,324y,6th Grade Y,"$1,274"
+,Northam Form Guide,2025-08-04,4,8,14:47,324y,5th Grade Y,"$1,337"
+,Northam Form Guide,2025-08-04,5,6,15:07,324y,OPEN Y,"$1,615"
+,Northam Form Guide,2025-08-04,6,6,15:23,324y,OPEN Y,"$1,615"
+,Northam Form Guide,2025-08-04,7,6,15:39,324y,OPEN Y,"$1,615"
+,Northam Form Guide,2025-08-04,8,6,15:57,556y,6th Grade Y,"$1,622"
+,Northam Form Guide,2025-08-04,9,8,16:15,324y,5th/6th Grade Y,"$1,337"
+,Northam Form Guide,2025-08-04,10,6,16:34,556y,4th/5th Grade Y,"$1,766"
+,Northam Form Guide,2025-08-04,11,7,17:00,324y,6th Grade Y,"$1,274"
+,Manawatu Form Guide,2025-08-05,1,8,19:55,722y,C0d,"$2,780"
+,Manawatu Form Guide,2025-08-05,2,7,20:15,410y,C0,"$1,656"
+,Manawatu Form Guide,2025-08-05,3,6,20:35,410y,C1,"$1,715"
+,Manawatu Form Guide,2025-08-05,4,5,20:55,499y,C2,"$2,603"
+,Manawatu Form Guide,2025-08-05,5,7,21:15,410y,C2,"$1,775"
+,Manawatu Form Guide,2025-08-05,6,7,21:35,410y,C1,"$1,715"
+,Manawatu Form Guide,2025-08-05,7,7,21:55,410y,C3,"$1,893"
+,Manawatu Form Guide,2025-08-05,8,7,22:13,410y,C5,"$2,603"
+,Manawatu Form Guide,2025-08-05,9,8,22:33,499y,C4,"$3,254"
+,Manawatu Form Guide,2025-08-05,10,7,22:53,410y,C4,"$2,071"
+,Manawatu Form Guide,2025-08-05,11,8,23:13,499y,C5,"$3,727"
+,Manawatu Form Guide,2025-08-05,12,7,23:34,410y,C5,"$2,603"
+,Murray Bdge Straight Form Guide,2025-08-05,1,6,22:09,328y,Maiden,
+,Murray Bdge Straight Form Guide,2025-08-05,2,6,22:34,328y,6th Grade,
+,Murray Bdge Straight Form Guide,2025-08-05,3,6,22:50,382y,6th Grade,
+,Murray Bdge Straight Form Guide,2025-08-05,4,6,23:09,382y,3rd/4th/5th Grade,
+,Murray Bdge Straight Form Guide,2025-08-05,5,7,23:25,328y,6th Grade,
+,Murray Bdge Straight Form Guide,2025-08-05,6,7,23:44,328y,6th Grade,
+,Murray Bdge Straight Form Guide,2025-08-05,7,6,12:04,328y,5th Grade,
+,Murray Bdge Straight Form Guide,2025-08-05,8,7,12:19,328y,5th Grade,
+,Murray Bdge Straight Form Guide,2025-08-05,9,6,12:40,328y,6th Grade,
+,Murray Bdge Straight Form Guide,2025-08-05,10,4,13:07,328y,2nd/3rd/4th Grade,
+,Launceston Form Guide,2025-08-05,1,6,22:22,563y,6th Grade,
+,Launceston Form Guide,2025-08-05,2,8,22:38,304y,Other,
+,Launceston Form Guide,2025-08-05,3,8,22:57,304y,5th Grade,
+,Launceston Form Guide,2025-08-05,4,7,23:17,304y,R/W,
+,Launceston Form Guide,2025-08-05,5,8,23:37,304y,R/W,
+,Launceston Form Guide,2025-08-05,6,8,23:52,304y,3rd/4th Grade,
+,Launceston Form Guide,2025-08-05,7,7,12:10,563y,3rd/4th Grade,
+,Launceston Form Guide,2025-08-05,8,8,12:27,563y,5th Grade,
+,Launceston Form Guide,2025-08-05,9,8,12:48,304y,4th Grade,
+,Launceston Form Guide,2025-08-05,10,8,13:15,304y,5th Grade,
+,Horsham Form Guide,2025-08-05,1,8,12:44,448y,Maiden,
+,Horsham Form Guide,2025-08-05,2,8,13:04,448y,Mixed 6/7,
+,Horsham Form Guide,2025-08-05,3,7,13:23,448y,Mixed 4/5,
+,Horsham Form Guide,2025-08-05,4,8,13:44,448y,Free For All,
+,Horsham Form Guide,2025-08-05,5,8,14:04,530y,Mixed 4/5,
+,Horsham Form Guide,2025-08-05,6,8,14:27,530y,Mixed 6/7 Heat,
+,Horsham Form Guide,2025-08-05,7,7,14:49,530y,Mixed 6/7 Heat,
+,Horsham Form Guide,2025-08-05,8,8,15:08,530y,Grade 5,
+,Horsham Form Guide,2025-08-05,9,8,15:25,448y,Grade 5,
+,Horsham Form Guide,2025-08-05,10,8,15:43,448y,Grade 5,
+,Horsham Form Guide,2025-08-05,11,7,16:01,448y,Grade 5,
+,Horsham Form Guide,2025-08-05,12,8,16:20,448y,Grade 5,
+,Geelong Form Guide,2025-08-05,1,7,12:52,437y,Maiden,
+,Geelong Form Guide,2025-08-05,2,8,13:19,437y,Maiden,
+,Geelong Form Guide,2025-08-05,3,7,13:39,437y,Mixed 6/7,
+,Geelong Form Guide,2025-08-05,4,6,13:55,437y,Grade 5,
+,Geelong Form Guide,2025-08-05,5,8,14:14,437y,Grade 5,
+,Geelong Form Guide,2025-08-05,6,7,14:38,437y,Grade 5,
+,Geelong Form Guide,2025-08-05,7,6,14:57,437y,Grade 5,
+,Geelong Form Guide,2025-08-05,8,6,15:16,503y,Grade 5,
+,Geelong Form Guide,2025-08-05,9,6,15:33,437y,Mixed 6/7,
+,Geelong Form Guide,2025-08-05,10,8,15:50,437y,Mixed 6/7,
+,Geelong Form Guide,2025-08-05,11,7,16:09,437y,Mixed 6/7,
+,Geelong Form Guide,2025-08-05,12,8,16:27,437y,Grade 5,
+,Q Lakeside Form Guide,2025-08-05,1,8,13:11,499y,Maiden,
+,Q Lakeside Form Guide,2025-08-05,2,8,13:27,385y,6th Grade,
+,Q Lakeside Form Guide,2025-08-05,3,8,13:47,385y,6th Grade,
+,Q Lakeside Form Guide,2025-08-05,4,8,14:07,385y,6th Grade,
+,Q Lakeside Form Guide,2025-08-05,5,8,14:22,426y,6th Grade,
+,Q Lakeside Form Guide,2025-08-05,6,8,14:42,499y,6th Grade,
+,Q Lakeside Form Guide,2025-08-05,7,7,15:05,499y,5th Grade,
+,Q Lakeside Form Guide,2025-08-05,8,8,15:22,499y,5th Grade,
+,Q Lakeside Form Guide,2025-08-05,9,8,15:40,499y,5th Grade,
+,Q Lakeside Form Guide,2025-08-05,10,8,15:58,499y,5th Grade,
+,Q Lakeside Form Guide,2025-08-05,11,8,16:17,499y,5th Grade,
+,Q Lakeside Form Guide,2025-08-05,12,7,16:35,499y,5th Grade,
+,Ascot Park Form Guide,2025-08-06,1,6,20:08,426y,C0,"$1,656"
+,Ascot Park Form Guide,2025-08-06,2,7,20:24,499y,C0,"$2,543"
+,Ascot Park Form Guide,2025-08-06,3,6,20:41,426y,C1,"$1,715"
+,Ascot Park Form Guide,2025-08-06,4,7,20:58,426y,C1/2,"$1,775"
+,Ascot Park Form Guide,2025-08-06,5,8,21:15,499y,C1,"$2,425"
+,Ascot Park Form Guide,2025-08-06,6,7,21:32,426y,C3,"$1,893"
+,Ascot Park Form Guide,2025-08-06,7,7,21:48,499y,C1,"$2,425"
+,Ascot Park Form Guide,2025-08-06,8,6,22:07,426y,C5,"$2,603"
+,Ascot Park Form Guide,2025-08-06,9,8,22:32,499y,C4/5,"$3,727"
+,Ascot Park Form Guide,2025-08-06,10,7,22:47,426y,C3/4,"$2,071"
+,Ascot Park Form Guide,2025-08-06,11,6,23:05,426y,C1/2,"$1,775"
+,Ascot Park Form Guide,2025-08-06,12,7,23:21,426y,C1,"$1,715"
+,Sale Form Guide,2025-08-06,1,8,21:36,475y,Tier 3 - Maiden,$986
+,Sale Form Guide,2025-08-06,2,8,21:56,475y,Tier 3 - Maiden,$986
+,Sale Form Guide,2025-08-06,3,8,22:12,475y,Tier 3 - Grade 7,$986
+,Sale Form Guide,2025-08-06,4,8,22:29,475y,Tier 3 - Grade 7,$986
+,Sale Form Guide,2025-08-06,5,8,22:44,557y,Tier 3 - Restricted Win,"$1,122"
+,Sale Form Guide,2025-08-06,6,8,23:12,475y,Grade 5 T3,$986
+,Sale Form Guide,2025-08-06,7,8,23:40,475y,Grade 5 T3,$986
+,Sale Form Guide,2025-08-06,8,7,23:55,557y,Grade 5 T3,"$1,122"
+,Sale Form Guide,2025-08-06,9,6,12:15,700y,Grade 5 T3,"$1,283"
+,Sale Form Guide,2025-08-06,10,8,12:30,475y,Tier 3 - Grade 6,$986
+,Sale Form Guide,2025-08-06,11,8,12:50,475y,Grade 5 T3,$986
+,Sale Form Guide,2025-08-06,12,8,13:07,475y,Grade 5 T3,$986
+,Bendigo Form Guide,2025-08-06,1,8,12:22,464y,Maiden,$986
+,Bendigo Form Guide,2025-08-06,2,8,12:42,464y,Maiden,$986
+,Bendigo Form Guide,2025-08-06,3,8,12:57,464y,Grade 7,$986
+,Bendigo Form Guide,2025-08-06,4,7,13:21,464y,Grade 5,$986
+,Bendigo Form Guide,2025-08-06,5,7,13:37,464y,Grade 5,$986
+,Bendigo Form Guide,2025-08-06,6,8,13:56,547y,Grade 5,"$1,122"
+,Bendigo Form Guide,2025-08-06,7,7,14:12,547y,Mixed 6/7,"$1,122"
+,Bendigo Form Guide,2025-08-06,8,7,14:31,547y,Grade 5,"$1,122"
+,Bendigo Form Guide,2025-08-06,9,8,14:49,464y,Grade 7,$986
+,Bendigo Form Guide,2025-08-06,10,7,15:07,464y,Grade 6,$986
+,Bendigo Form Guide,2025-08-06,11,8,15:30,464y,Grade 5,$986
+,Bendigo Form Guide,2025-08-06,12,8,15:47,464y,Grade 5,$986
+,Q Lakeside Form Guide,2025-08-06,1,8,13:02,385y,PM,"$1,548"
+,Q Lakeside Form Guide,2025-08-06,2,8,13:25,385y,Maiden,"$1,548"
+,Q Lakeside Form Guide,2025-08-06,3,8,13:42,385y,Maiden,"$2,064"
+,Q Lakeside Form Guide,2025-08-06,4,8,14:00,385y,5th Grade,"$1,548"
+,Q Lakeside Form Guide,2025-08-06,5,7,14:17,385y,5th Grade,"$1,548"
+,Q Lakeside Form Guide,2025-08-06,6,8,14:35,385y,5th Grade,"$1,548"
+,Q Lakeside Form Guide,2025-08-06,7,8,14:57,385y,3rd/4th Grade,"$1,806"
+,Q Lakeside Form Guide,2025-08-06,8,8,15:15,385y,1st/2nd Grade,"$2,064"
+,Q Lakeside Form Guide,2025-08-06,9,8,15:37,385y,5th Grade,"$1,548"
+,Q Lakeside Form Guide,2025-08-06,10,8,15:54,385y,5th Grade,"$1,548"
+,Q Lakeside Form Guide,2025-08-06,11,8,16:17,385y,5th Grade,"$1,548"
+,Q Lakeside Form Guide,2025-08-06,12,7,16:39,385y,M5,"$1,548"
+,Temora Form Guide,2025-08-06,1,8,13:17,361y,Maiden,"$1,154"
+,Temora Form Guide,2025-08-06,2,8,13:32,361y,Maiden,"$1,154"
+,Temora Form Guide,2025-08-06,3,8,13:52,361y,5th Grade,"$1,489"
+,Temora Form Guide,2025-08-06,4,7,14:07,361y,5th Grade,"$1,489"
+,Temora Form Guide,2025-08-06,5,6,14:27,361y,NG1-4,"$1,696"
+,Temora Form Guide,2025-08-06,6,8,14:42,361y,5th Grade,"$1,489"
+,Temora Form Guide,2025-08-06,7,8,15:00,361y,5th Grade,"$1,489"
+,Temora Form Guide,2025-08-06,8,6,15:22,499y,4th/5th Grade,"$2,122"
+,Temora Form Guide,2025-08-06,9,6,15:40,499y,5th Grade,"$2,005"
+,Temora Form Guide,2025-08-06,10,8,15:57,361y,5th Grade,"$1,489"
+,Temora Form Guide,2025-08-06,11,8,16:20,361y,M2/M3,"$1,489"
+,Cambridge Raceway Form Guide,2025-08-07,1,4,20:10,711y,C2d,"$3,727"
+,Cambridge Raceway Form Guide,2025-08-07,2,7,20:28,410y,C1,"$1,715"
+,Cambridge Raceway Form Guide,2025-08-07,3,7,20:49,410y,C4,"$2,071"
+,Cambridge Raceway Form Guide,2025-08-07,4,7,21:06,410y,C1,"$1,715"
+,Cambridge Raceway Form Guide,2025-08-07,5,7,21:23,410y,C1/2,"$1,775"
+,Cambridge Raceway Form Guide,2025-08-07,6,7,21:42,410y,C2,"$1,775"
+,Cambridge Raceway Form Guide,2025-08-07,7,7,22:00,499y,C1,"$2,425"
+,Cambridge Raceway Form Guide,2025-08-07,8,5,22:17,499y,C4,"$3,254"
+,Cambridge Raceway Form Guide,2025-08-07,9,7,22:33,499y,C2/3,"$2,839"
+,Cambridge Raceway Form Guide,2025-08-07,10,7,22:50,410y,C5,"$2,603"
+,Cambridge Raceway Form Guide,2025-08-07,11,7,23:07,410y,C3,"$1,893"
+,Cambridge Raceway Form Guide,2025-08-07,12,6,23:27,499y,C5,"$3,727"
+,Shepparton Form Guide,2025-08-07,1,8,20:40,492y,Tier 3 - Maiden,"$1,635"
+,Shepparton Form Guide,2025-08-07,2,7,20:55,426y,Tier 3 - Maiden,"$1,635"
+,Shepparton Form Guide,2025-08-07,3,8,21:12,426y,Tier 3 - Maiden,"$1,635"
+,Shepparton Form Guide,2025-08-07,4,8,21:32,426y,Grade 5 T3,"$1,886"
+,Shepparton Form Guide,2025-08-07,5,8,21:49,426y,Grade 5 T3,"$1,886"
+,Shepparton Form Guide,2025-08-07,6,8,22:04,426y,Grade 5 T3,"$1,886"
+,Shepparton Form Guide,2025-08-07,7,8,22:24,492y,Grade 5 T3,"$1,886"
+,Shepparton Form Guide,2025-08-07,8,8,22:39,492y,Grade 5 T3,"$1,886"
+,Shepparton Form Guide,2025-08-07,9,8,23:07,492y,Tier 3 - Restricted Win,"$1,886"
+,Shepparton Form Guide,2025-08-07,10,8,23:27,426y,Tier 3 - Grade 7,"$1,886"
+,Shepparton Form Guide,2025-08-07,11,8,23:47,426y,Tier 3 - Grade 7,"$1,886"
+,Shepparton Form Guide,2025-08-07,12,8,12:07,426y,Tier 3 - Grade 6,"$1,886"
+,Mt Gambier Form Guide,2025-08-07,1,6,21:37,333y,Maiden,$625
+,Mt Gambier Form Guide,2025-08-07,2,6,21:57,333y,TG1-4W,$648
+,Mt Gambier Form Guide,2025-08-07,3,4,22:14,437y,Other,$690
+,Mt Gambier Form Guide,2025-08-07,4,3,22:36,437y,Other,$690
+,Mt Gambier Form Guide,2025-08-07,5,6,22:52,437y,Other,$690
+,Mt Gambier Form Guide,2025-08-07,6,6,23:11,437y,Other,$690
+,Mt Gambier Form Guide,2025-08-07,7,7,23:32,437y,TG1-4W,$648
+,Mt Gambier Form Guide,2025-08-07,8,8,23:51,437y,TG1-4W,$648
+,Mt Gambier Form Guide,2025-08-07,9,5,12:11,437y,Other,$690
+,Mt Gambier Form Guide,2025-08-07,10,4,12:27,560y,Other,$690
+,Richmond Straight Form Guide,2025-08-07,1,6,22:11,354y,Maiden,"$1,154"
+,Richmond Straight Form Guide,2025-08-07,2,8,22:32,354y,Maiden,"$1,154"
+,Richmond Straight Form Guide,2025-08-07,3,6,22:49,354y,Maiden,"$1,154"
+,Richmond Straight Form Guide,2025-08-07,4,8,23:14,354y,M2/M3,"$1,489"
+,Richmond Straight Form Guide,2025-08-07,5,8,23:39,354y,5th Grade,"$1,489"
+,Richmond Straight Form Guide,2025-08-07,6,6,23:54,354y,Non Graded,"$1,696"
+,Richmond Straight Form Guide,2025-08-07,7,6,12:14,354y,Non Graded,"$1,696"
+,Richmond Straight Form Guide,2025-08-07,8,6,12:38,354y,3rd Grade,"$1,696"
+,Richmond Straight Form Guide,2025-08-07,9,7,13:02,354y,3rd/4th Grade,"$1,696"
+,Richmond Straight Form Guide,2025-08-07,10,8,13:21,354y,4th/5th Grade,"$1,606"
+,Richmond Straight Form Guide,2025-08-07,11,8,13:41,354y,5th Grade,"$1,489"
+,Richmond Straight Form Guide,2025-08-07,12,8,14:05,354y,5th Grade,"$1,489"
+,Casino Form Guide,2025-08-07,1,7,12:32,449y,Maiden,"$1,154"
+,Casino Form Guide,2025-08-07,2,7,12:52,449y,Maiden,"$1,154"
+,Casino Form Guide,2025-08-07,3,7,13:14,449y,Maiden,"$1,154"
+,Casino Form Guide,2025-08-07,4,8,13:37,328y,5th Grade,"$1,489"
+,Casino Form Guide,2025-08-07,5,8,13:53,328y,4th/5th Grade,"$1,606"
+,Casino Form Guide,2025-08-07,6,8,14:19,529y,5th Grade,"$2,005"
+,Casino Form Guide,2025-08-07,7,8,14:39,529y,5th Grade,"$2,005"
+,Casino Form Guide,2025-08-07,8,8,14:57,529y,5th Grade,"$2,005"
+,Casino Form Guide,2025-08-07,9,7,15:15,449y,Free For All,"$1,696"
+,Casino Form Guide,2025-08-07,10,8,15:38,449y,4th/5th Grade,"$1,606"
+,Casino Form Guide,2025-08-07,11,8,16:01,449y,5th Grade,"$1,489"
+,Casino Form Guide,2025-08-07,12,8,16:22,328y,M1/M2/M3,"$1,489"
+,Warragul Form Guide,2025-08-07,1,8,12:49,437y,Maiden,$986
+,Warragul Form Guide,2025-08-07,2,8,13:09,437y,Grade 7,$986
+,Warragul Form Guide,2025-08-07,3,7,13:24,437y,Mixed 6/7,$986
+,Warragul Form Guide,2025-08-07,4,8,13:44,437y,Grade 5,$986
+,Warragul Form Guide,2025-08-07,5,7,14:12,437y,Grade 5,$986
+,Warragul Form Guide,2025-08-07,6,8,14:36,503y,Grade 5,$986
+,Warragul Form Guide,2025-08-07,7,6,14:54,503y,Restricted Win,$986
+,Warragul Form Guide,2025-08-07,8,7,15:12,503y,Grade 5,$986
+,Warragul Form Guide,2025-08-07,9,7,15:35,437y,Grade 6,$986
+,Warragul Form Guide,2025-08-07,10,8,15:54,437y,Mixed 4/5,$986
+,Warragul Form Guide,2025-08-07,11,7,16:11,437y,Grade 5,$986
+,Warragul Form Guide,2025-08-07,12,8,16:28,437y,Grade 5,$986
+,Addington Form Guide,2025-08-08,1,5,19:55,574y,C0q,"$2,543"
+,Addington Form Guide,2025-08-08,2,6,20:14,574y,C0q,"$2,543"
+,Addington Form Guide,2025-08-08,3,7,20:30,322y,C0,"$1,656"
+,Addington Form Guide,2025-08-08,4,8,20:46,322y,C0f,"$1,656"
+,Addington Form Guide,2025-08-08,5,7,21:03,322y,C0,"$1,656"
+,Addington Form Guide,2025-08-08,6,7,21:20,322y,C0,"$1,656"
+,Addington Form Guide,2025-08-08,7,7,21:37,322y,C2,"$1,775"
+,Addington Form Guide,2025-08-08,8,7,21:55,574y,C2/3,"$2,839"
+,Addington Form Guide,2025-08-08,9,4,22:15,574y,C2f,"$2,603"
+,Addington Form Guide,2025-08-08,10,7,22:32,322y,C2q,"$1,775"
+,Addington Form Guide,2025-08-08,11,7,22:52,322y,C2q,"$1,775"
+,Addington Form Guide,2025-08-08,12,7,23:07,322y,C2q,"$1,775"
+,Healesville Form Guide,2025-08-08,1,8,20:50,382y,Tier 3 - Maiden,$986
+,Healesville Form Guide,2025-08-08,2,8,21:07,328y,Tier 3 - Grade 6,$986
+,Healesville Form Guide,2025-08-08,3,8,21:25,328y,Grade 5 T3,$986
+,Healesville Form Guide,2025-08-08,4,7,21:50,328y,Grade 5 T3,$986
+,Healesville Form Guide,2025-08-08,5,8,22:12,382y,Grade 5 T3,$986
+,Healesville Form Guide,2025-08-08,6,8,22:29,382y,Grade 5 T3,$986
+,Healesville Form Guide,2025-08-08,7,8,22:53,382y,Grade 5 T3,$986
+,Healesville Form Guide,2025-08-08,8,8,23:17,382y,Grade 5 T3,$986
+,Healesville Form Guide,2025-08-08,9,7,23:42,328y,Tier 3 - Maiden,$986
+,Healesville Form Guide,2025-08-08,10,8,12:03,382y,Tier 3 - Restricted Win,$986
+,Healesville Form Guide,2025-08-08,11,8,12:27,328y,Tier 3 - Grade 7,$986
+,Healesville Form Guide,2025-08-08,12,8,12:52,328y,Grade 5 T3,$986
+,Townsville Form Guide,2025-08-08,1,7,22:21,415y,Maiden,"$1,548"
+,Townsville Form Guide,2025-08-08,2,7,22:46,415y,6th Grade,"$1,548"
+,Townsville Form Guide,2025-08-08,3,8,23:04,415y,6th Grade,"$1,548"
+,Townsville Form Guide,2025-08-08,4,8,23:22,544y,6th Grade,"$2,451"
+,Townsville Form Guide,2025-08-08,5,8,23:39,415y,P5,"$1,548"
+,Townsville Form Guide,2025-08-08,6,8,23:57,415y,P5,"$1,548"
+,Townsville Form Guide,2025-08-08,7,8,12:14,415y,5th Grade,"$1,548"
+,Townsville Form Guide,2025-08-08,8,8,12:32,415y,5th Grade,"$2,064"
+,Townsville Form Guide,2025-08-08,9,8,12:48,415y,P5,"$1,548"
+,Townsville Form Guide,2025-08-08,10,8,13:07,415y,P5,"$1,548"
+,Townsville Form Guide,2025-08-08,11,7,13:31,415y,P5,"$1,548"
+,Townsville Form Guide,2025-08-08,12,8,13:54,415y,M5,"$1,548"
+,Warragul Form Guide,2025-08-08,1,6,13:02,503y,Maiden,"$1,635"
+,Warragul Form Guide,2025-08-08,2,7,13:27,437y,Maiden,"$1,635"
+,Warragul Form Guide,2025-08-08,3,7,13:50,437y,Maiden,"$1,635"
+,Warragul Form Guide,2025-08-08,4,8,14:07,437y,Grade 7,"$1,886"
+,Warragul Form Guide,2025-08-08,5,8,14:30,437y,Grade 5 T3,"$1,886"
+,Warragul Form Guide,2025-08-08,6,8,14:47,503y,Grade 6,"$1,886"
+,Warragul Form Guide,2025-08-08,7,8,15:10,503y,Mixed 6/7,"$1,886"
+,Warragul Form Guide,2025-08-08,8,7,15:27,503y,Mixed 3/4,"$2,167"
+,Warragul Form Guide,2025-08-08,9,7,15:45,437y,Grade 6,"$1,886"
+,Warragul Form Guide,2025-08-08,10,7,16:02,437y,Grade 5 T3,"$1,886"
+,Warragul Form Guide,2025-08-08,11,8,16:20,437y,Grade 5 T3,"$1,886"
+,Warragul Form Guide,2025-08-08,12,8,16:37,437y,Grade 5 T3,"$1,886"
+,The Gardens Form Guide,2025-08-08,1,8,13:13,437y,Maiden,"$1,154"
+,The Gardens Form Guide,2025-08-08,2,7,13:37,437y,M3,"$1,489"
+,The Gardens Form Guide,2025-08-08,3,8,13:57,437y,NG1-4,"$1,696"
+,The Gardens Form Guide,2025-08-08,4,8,14:17,437y,5th Grade,"$1,489"
+,The Gardens Form Guide,2025-08-08,5,8,14:37,437y,5th Grade,"$1,489"
+,The Gardens Form Guide,2025-08-08,6,8,14:57,437y,5th Grade,"$1,489"
+,The Gardens Form Guide,2025-08-08,7,8,15:17,437y,5th Grade,"$1,489"
+,The Gardens Form Guide,2025-08-08,8,8,15:35,563y,4th/5th Grade,"$2,122"
+,The Gardens Form Guide,2025-08-08,9,8,15:52,437y,4th/5th Grade,"$1,606"
+,The Gardens Form Guide,2025-08-08,10,8,16:09,437y,5th Grade,"$1,489"
+,The Gardens Form Guide,2025-08-08,11,8,16:27,437y,5th Grade,"$1,489"
+,The Gardens Form Guide,2025-08-08,12,8,16:44,437y,5th Grade,"$1,489"
+,Q Lakeside Form Guide,2025-08-08,1,8,13:22,426y,Maiden,"$1,935"
+,Q Lakeside Form Guide,2025-08-08,2,8,13:47,426y,Maiden,"$1,935"
+,Q Lakeside Form Guide,2025-08-08,3,8,14:04,426y,5th Grade,"$1,935"
+,Q Lakeside Form Guide,2025-08-08,4,5,14:27,426y,Free For All,"$2,451"
+,Q Lakeside Form Guide,2025-08-08,5,7,14:44,426y,5th Grade,"$1,935"
+,Q Lakeside Form Guide,2025-08-08,6,8,15:07,426y,4th/5th Grade,"$2,193"
+,Q Lakeside Form Guide,2025-08-08,7,8,15:24,426y,4th Grade,"$2,193"
+,Q Lakeside Form Guide,2025-08-08,8,8,15:42,426y,5th Grade,"$2,451"
+,Q Lakeside Form Guide,2025-08-08,9,7,15:59,426y,5th Grade,"$1,935"
+,Q Lakeside Form Guide,2025-08-08,10,8,16:17,426y,5th Grade,"$1,935"
+,Q Lakeside Form Guide,2025-08-08,11,8,16:34,426y,M5,"$1,935"
+,Q Lakeside Form Guide,2025-08-08,12,8,16:51,426y,M5,"$1,935"
+,Taree Super Track Form Guide | Today,2025-08-09,1,8,18:08,328y,Maiden,$545
+,Taree Super Track Form Guide | Today,2025-08-09,2,8,18:25,328y,Maiden,$545
+,Taree Super Track Form Guide | Today,2025-08-09,3,8,18:40,328y,M3,$706
+,Taree Super Track Form Guide | Today,2025-08-09,4,7,18:57,328y,NG1-4,$822
+,Taree Super Track Form Guide | Today,2025-08-09,5,8,19:18,328y,NG1-4,$822
+,Taree Super Track Form Guide | Today,2025-08-09,6,7,19:36,328y,4th Grade,$767
+,Taree Super Track Form Guide | Today,2025-08-09,7,8,19:52,328y,5th Grade,$706
+,Taree Super Track Form Guide | Today,2025-08-09,8,7,20:08,328y,5th Grade,$706
+,Taree Super Track Form Guide | Today,2025-08-09,9,8,20:25,328y,5th Grade,$706
+,Taree Super Track Form Guide | Today,2025-08-09,10,8,20:41,328y,5th Grade,$706
+,Taree Super Track Form Guide | Today,2025-08-09,11,7,20:57,328y,5th Grade,$706
+,Taree Super Track Form Guide | Today,2025-08-09,12,7,21:15,328y,5th Grade,$706
+,Manukau Form Guide,2025-08-10,1,7,20:50,347y,SPECA,"$1,715"
+,Manukau Form Guide,2025-08-10,2,6,21:13,347y,C0,"$1,656"
+,Manukau Form Guide,2025-08-10,3,8,21:35,347y,C1,"$1,715"
+,Manukau Form Guide,2025-08-10,4,7,21:58,347y,C2,"$1,775"
+,Manukau Form Guide,2025-08-10,5,8,22:20,347y,C4,"$2,071"
+,Manukau Form Guide,2025-08-10,6,6,22:37,576y,C1,"$2,425"
+,Manukau Form Guide,2025-08-10,7,8,22:59,347y,C1,"$1,715"
+,Manukau Form Guide,2025-08-10,8,5,23:16,576y,C1,"$2,425"
+,Manukau Form Guide,2025-08-10,9,8,23:38,576y,C2/3,"$2,839"
+,Manukau Form Guide,2025-08-10,10,7,12:02,347y,C3,"$1,893"
+,Manukau Form Guide,2025-08-10,11,8,12:27,347y,C5,"$2,603"
+,Manukau Form Guide,2025-08-10,12,7,12:44,347y,C1,"$1,715"
+,Healesville Form Guide,2025-08-10,1,8,21:10,328y,Maiden,"$1,635"
+,Healesville Form Guide,2025-08-10,2,7,21:25,328y,S/E Veteran,"$1,886"
+,Healesville Form Guide,2025-08-10,3,8,21:40,328y,Grade 5,"$1,886"
+,Healesville Form Guide,2025-08-10,4,7,21:55,382y,Maiden Final,"$1,886"
+,Healesville Form Guide,2025-08-10,5,8,22:10,382y,Grade 5,"$1,886"
+,Healesville Form Guide,2025-08-10,6,7,22:34,382y,S/E Heat,"$2,167"
+,Healesville Form Guide,2025-08-10,7,8,22:50,382y,S/E Heat,"$2,167"
+,Healesville Form Guide,2025-08-10,8,8,23:14,382y,S/E Heat,"$2,167"
+,Healesville Form Guide,2025-08-10,9,6,23:35,328y,Restricted Win,"$1,886"
+,Healesville Form Guide,2025-08-10,10,8,23:54,382y,Free For All,"$2,167"
+,Healesville Form Guide,2025-08-10,11,8,12:16,382y,Grade 5,"$1,886"
+,Healesville Form Guide,2025-08-10,12,8,12:34,328y,Mixed 4/5,"$2,167"
+,Capalaba Form Guide,2025-08-10,1,8,22:02,400y,M,"$1,741"
+,Capalaba Form Guide,2025-08-10,2,8,22:17,400y,M,"$1,741"
+,Capalaba Form Guide,2025-08-10,3,8,22:38,400y,6,"$1,741"
+,Capalaba Form Guide,2025-08-10,4,8,23:02,400y,6,"$1,741"
+,Capalaba Form Guide,2025-08-10,5,8,23:18,400y,RW,"$1,741"
+,Capalaba Form Guide,2025-08-10,6,8,23:41,400y,5,"$1,741"
+,Capalaba Form Guide,2025-08-10,7,8,23:58,400y,X45,"$1,999"
+,Capalaba Form Guide,2025-08-10,8,8,12:19,400y,5,"$2,257"
+,Capalaba Form Guide,2025-08-10,9,8,12:38,400y,RW,"$1,741"
+,Capalaba Form Guide,2025-08-10,10,6,12:59,400y,RW,"$1,741"
+,Capalaba Form Guide,2025-08-10,11,7,13:14,400y,MA5,"$1,741"
+,Mt Gambier Form Guide,2025-08-10,1,6,22:42,333y,M,$915
+,Mt Gambier Form Guide,2025-08-10,2,6,23:05,437y,M,$915
+,Mt Gambier Form Guide,2025-08-10,3,6,23:22,656y,X456,"$1,364"
+,Mt Gambier Form Guide,2025-08-10,4,5,23:44,800y,S,"$1,647"
+,Mt Gambier Form Guide,2025-08-10,5,8,12:02,437y,5,"$1,038"
+,Mt Gambier Form Guide,2025-08-10,6,8,12:22,437y,6,$977
+,Mt Gambier Form Guide,2025-08-10,7,8,12:42,437y,6,$977
+,Mt Gambier Form Guide,2025-08-10,8,6,13:04,560y,X234,"$1,548"
+,Mt Gambier Form Guide,2025-08-10,9,7,13:22,560y,5,"$1,199"
+,Mt Gambier Form Guide,2025-08-10,10,5,13:43,560y,6,"$1,122"
+,Mt Gambier Form Guide,2025-08-10,11,6,13:58,437y,X45,"$1,109"
+,Mt Gambier Form Guide,2025-08-10,12,6,14:13,437y,O,"$1,351"
+,Monmore Form Guide,2025-08-02,1,6,18:01,525y,A9,$484
+,Monmore Form Guide,2025-08-02,2,6,18:18,288y,D3,$470
+,Monmore Form Guide,2025-08-02,3,5,18:34,525y,A6,$577
+,Monmore Form Guide,2025-08-02,4,5,18:52,525y,A6,$497
+,Monmore Form Guide,2025-08-02,5,6,19:09,288y,D2,$537
+,Monmore Form Guide,2025-08-02,6,6,19:26,525y,A6,$577
+,Monmore Form Guide,2025-08-02,7,5,19:42,525y,A7,$464
+,Monmore Form Guide,2025-08-02,8,5,19:59,525y,A5,$504
+,Monmore Form Guide,2025-08-02,9,5,20:17,288y,D4,$470
+,Monmore Form Guide,2025-08-02,10,5,20:33,689y,S3,$524
+,Monmore Form Guide,2025-08-02,11,5,20:51,525y,A8,$457
+,Monmore Form Guide,2025-08-02,12,5,21:07,525y,A4,$510
+,Romford Form Guide,2025-08-02,1,6,18:09,437y,A12,$470
+,Romford Form Guide,2025-08-02,2,5,18:27,437y,A2,$537
+,Romford Form Guide,2025-08-02,3,6,18:43,437y,A5,$583
+,Romford Form Guide,2025-08-02,4,5,19:01,437y,A3,$524
+,Romford Form Guide,2025-08-02,5,5,19:18,437y,A9,$417
+,Romford Form Guide,2025-08-02,6,5,19:34,437y,A5,$504
+,Romford Form Guide,2025-08-02,7,6,19:51,437y,A6,$577
+,Romford Form Guide,2025-08-02,8,6,20:08,437y,A7,$537
+,Romford Form Guide,2025-08-02,9,5,20:26,437y,A11,$405
+,Romford Form Guide,2025-08-02,10,5,20:42,437y,A8,$457
+,Romford Form Guide,2025-08-02,11,5,20:59,437y,A12,$405
+,Romford Form Guide,2025-08-02,12,5,21:14,437y,A2,$537
+,Swindon Form Guide,2025-08-02,1,6,21:31,520y,A3,$504
+,Swindon Form Guide,2025-08-02,2,6,21:49,286y,D1,$490
+,Swindon Form Guide,2025-08-02,3,5,22:09,520y,A2,$464
+,Swindon Form Guide,2025-08-02,4,5,22:27,520y,A4,$428
+,Swindon Form Guide,2025-08-02,5,6,22:47,520y,A9,$451
+,Swindon Form Guide,2025-08-02,6,5,23:04,520y,A5,$421
+,Swindon Form Guide,2025-08-02,7,6,23:24,520y,HCP,$490
+,Swindon Form Guide,2025-08-02,8,6,23:42,520y,A4,$497
+,Swindon Form Guide,2025-08-02,9,6,12:01,520y,A7,$464
+,Swindon Form Guide,2025-08-02,10,6,12:19,520y,A6,$470
+,Swindon Form Guide,2025-08-02,11,6,12:37,286y,D4,$437
+,Swindon Form Guide,2025-08-02,12,5,12:57,520y,A5,$421
+,Central Park Form Guide,2025-08-02,1,6,12:25,303y,D4,$470
+,Central Park Form Guide,2025-08-02,2,5,12:45,537y,A2,$537
+,Central Park Form Guide,2025-08-02,3,6,13:05,303y,D3,$470
+,Central Park Form Guide,2025-08-02,4,6,13:25,537y,A5,$583
+,Central Park Form Guide,2025-08-02,5,5,13:45,303y,D1,$497
+,Central Park Form Guide,2025-08-02,6,6,14:05,537y,A1,$703
+,Central Park Form Guide,2025-08-02,7,4,14:25,537y,OR,$862
+,Central Park Form Guide,2025-08-02,8,6,14:45,726y,OR,$962
+,Central Park Form Guide,2025-08-02,9,6,15:05,537y,OR3,$962
+,Central Park Form Guide,2025-08-02,10,6,15:25,537y,OR3,$962
+,Central Park Form Guide,2025-08-02,11,5,15:45,303y,OR,"$1,128"
+,Central Park Form Guide,2025-08-02,12,5,16:05,726y,OR,$995
+,Hove Form Guide,2025-08-02,1,5,13:08,547y,OR,"$1,055"
+,Hove Form Guide,2025-08-02,2,4,13:26,547y,OR,$968
+,Hove Form Guide,2025-08-02,3,6,13:42,547y,OR3,"$1,473"
+,Hove Form Guide,2025-08-02,4,5,13:59,760y,OR,"$1,055"
+,Hove Form Guide,2025-08-02,5,6,14:16,311y,OR2,"$5,972"
+,Hove Form Guide,2025-08-02,6,5,14:33,1044y,OR,"$1,055"
+,Hove Form Guide,2025-08-02,7,6,14:49,563y,OR1,"$19,907"
+,Hove Form Guide,2025-08-02,8,6,15:07,547y,OR,"$1,141"
+,Hove Form Guide,2025-08-02,9,5,15:24,760y,OR1,"$31,852"
+,Hove Form Guide,2025-08-02,10,6,15:41,547y,OR,"$1,141"
+,Hove Form Guide,2025-08-02,11,5,15:59,547y,OR,"$1,055"
+,Hove Form Guide,2025-08-02,12,6,16:16,547y,OR,"$1,141"
+,Monmore Eve,2025-08-02,1,4,13:31,525y,OR,$743
+,Monmore Eve,2025-08-02,2,5,13:48,288y,D1,$497
+,Monmore Eve,2025-08-02,3,5,14:06,689y,OR,$829
+,Monmore Eve,2025-08-02,4,5,14:22,525y,A3,$524
+,Monmore Eve,2025-08-02,5,6,14:39,525y,A8,$530
+,Monmore Eve,2025-08-02,6,5,14:56,288y,OR3,"$1,858"
+,Monmore Eve,2025-08-02,7,5,15:13,525y,OR,$743
+,Monmore Eve,2025-08-02,8,5,15:31,525y,OR,$743
+,Monmore Eve,2025-08-02,9,6,15:47,689y,OR,$829
+,Monmore Eve,2025-08-02,10,5,16:04,525y,OR,$743
+,Monmore Eve,2025-08-02,11,6,16:23,689y,OR,$829
+,Monmore Eve,2025-08-02,12,5,16:39,525y,OR,$743
+,Perry Barr Form Guide,2025-08-02,1,5,14:01,525y,A6,$497
+,Perry Barr Form Guide,2025-08-02,2,6,14:18,300y,D3,$470
+,Perry Barr Form Guide,2025-08-02,3,5,14:36,525y,A3,$524
+,Perry Barr Form Guide,2025-08-02,4,5,14:53,525y,A5,$504
+,Perry Barr Form Guide,2025-08-02,5,5,15:11,525y,A4,$510
+,Perry Barr Form Guide,2025-08-02,6,5,15:28,525y,A2,$537
+,Perry Barr Form Guide,2025-08-02,7,5,15:44,300y,D2,$464
+,Perry Barr Form Guide,2025-08-02,8,5,16:02,525y,A1,$617
+,Perry Barr Form Guide,2025-08-02,9,5,16:20,525y,A6,$497
+,Perry Barr Form Guide,2025-08-02,10,6,16:36,300y,D3,$470
+,Perry Barr Form Guide,2025-08-02,11,5,16:52,525y,A8,$457
+,Perry Barr Form Guide,2025-08-02,12,5,17:11,300y,D3,$405
+,Romford Eve,2025-08-02,1,6,14:08,437y,A1,$703
+,Romford Eve,2025-08-02,2,6,14:25,437y,A3,$603
+,Romford Eve,2025-08-02,3,4,14:41,437y,A4,$510
+,Romford Eve,2025-08-02,4,6,14:59,437y,A8,$530
+,Romford Eve,2025-08-02,5,5,15:17,437y,A10,$417
+,Romford Eve,2025-08-02,6,6,15:37,437y,A12,$470
+,Romford Eve,2025-08-02,7,5,15:56,437y,A9,$484
+,Romford Eve,2025-08-02,8,5,16:14,437y,A5,$504
+,Romford Eve,2025-08-02,9,5,16:32,437y,A12,$405
+,Romford Eve,2025-08-02,10,6,16:48,437y,A9,$484
+,Romford Eve,2025-08-02,11,6,17:04,437y,A10,$484
+,Romford Eve,2025-08-02,12,6,17:22,629y,S5,$583
+,Sunderland Form Guide,2025-08-03,1,6,18:09,492y,A6,$577
+,Sunderland Form Guide,2025-08-03,2,6,18:27,492y,A2,$617
+,Sunderland Form Guide,2025-08-03,3,6,18:43,285y,D2,$537
+,Sunderland Form Guide,2025-08-03,4,6,19:01,492y,A3,$603
+,Sunderland Form Guide,2025-08-03,5,6,19:18,492y,A6,$577
+,Sunderland Form Guide,2025-08-03,6,6,19:34,492y,HCP,$603
+,Sunderland Form Guide,2025-08-03,7,5,19:51,492y,A8,$530
+,Sunderland Form Guide,2025-08-03,8,5,20:08,285y,D3,$470
+,Sunderland Form Guide,2025-08-03,9,6,20:26,285y,D4,$470
+,Sunderland Form Guide,2025-08-03,10,6,20:42,492y,HCP,$603
+,Sunderland Form Guide,2025-08-03,11,6,20:59,492y,A4,$590
+,Sunderland Form Guide,2025-08-03,12,6,21:14,492y,A5,$583
+,Hove Form Guide,2025-08-03,1,6,21:23,547y,A6,$577
+,Hove Form Guide,2025-08-03,2,5,21:41,547y,A3,$524
+,Hove Form Guide,2025-08-03,3,5,22:01,547y,A9,$417
+,Hove Form Guide,2025-08-03,4,6,22:19,311y,D3,$470
+,Hove Form Guide,2025-08-03,5,5,22:38,547y,A2,$537
+,Hove Form Guide,2025-08-03,6,6,22:57,547y,A5,$583
+,Hove Form Guide,2025-08-03,7,6,23:16,547y,A7,$537
+,Hove Form Guide,2025-08-03,8,5,23:34,311y,D2,$464
+,Hove Form Guide,2025-08-03,9,6,23:53,547y,A8,$530
+,Hove Form Guide,2025-08-03,10,6,12:12,547y,A8,$530
+,Hove Form Guide,2025-08-03,11,5,12:31,547y,A1,$617
+,Hove Form Guide,2025-08-03,12,5,12:49,547y,A3,$524
+,Romford Form Guide,2025-08-04,1,6,18:01,437y,A7,$537
+,Romford Form Guide,2025-08-04,2,6,18:18,437y,A4,$590
+,Romford Form Guide,2025-08-04,3,6,18:34,437y,A7,$537
+,Romford Form Guide,2025-08-04,4,6,18:52,437y,A5,$583
+,Romford Form Guide,2025-08-04,5,5,19:09,437y,A8,$457
+,Romford Form Guide,2025-08-04,6,6,19:26,437y,A11,$470
+,Romford Form Guide,2025-08-04,7,5,19:42,437y,A1,$617
+,Romford Form Guide,2025-08-04,8,5,19:59,437y,A9,$417
+,Romford Form Guide,2025-08-04,9,6,20:17,437y,A4,$590
+,Romford Form Guide,2025-08-04,10,6,20:33,437y,A6,$577
+,Romford Form Guide,2025-08-04,11,6,20:51,437y,A8,$530
+,Romford Form Guide,2025-08-04,12,5,21:07,437y,A5,$504
+,Swindon Form Guide,2025-08-04,1,5,18:27,520y,A5,$421
+,Swindon Form Guide,2025-08-04,2,5,18:43,520y,A6,$405
+,Swindon Form Guide,2025-08-04,3,6,19:01,520y,A5,$490
+,Swindon Form Guide,2025-08-04,4,5,19:18,520y,A3,$435
+,Swindon Form Guide,2025-08-04,5,6,19:34,520y,A7,$464
+,Swindon Form Guide,2025-08-04,6,5,19:51,286y,D2,$385
+,Swindon Form Guide,2025-08-04,7,6,20:08,520y,A9,$451
+,Swindon Form Guide,2025-08-04,8,6,20:26,520y,A8,$451
+,Swindon Form Guide,2025-08-04,9,5,20:42,520y,A4,$428
+,Swindon Form Guide,2025-08-04,10,5,20:59,520y,A4,$428
+,Monmore Form Guide,2025-08-04,1,6,21:23,525y,A9,$484
+,Monmore Form Guide,2025-08-04,2,5,21:46,288y,D2,$464
+,Monmore Form Guide,2025-08-04,3,6,22:01,525y,A10,$484
+,Monmore Form Guide,2025-08-04,4,5,22:19,525y,A6,$497
+,Monmore Form Guide,2025-08-04,5,6,22:38,288y,D4,$470
+,Monmore Form Guide,2025-08-04,6,6,22:57,288y,D2,$537
+,Monmore Form Guide,2025-08-04,7,6,23:16,525y,A9,$484
+,Monmore Form Guide,2025-08-04,8,5,23:34,525y,A5,$504
+,Monmore Form Guide,2025-08-04,9,5,23:53,525y,A8,$530
+,Monmore Form Guide,2025-08-04,10,6,12:12,525y,A10,$484
+,Monmore Form Guide,2025-08-04,11,6,12:31,525y,A7,$537
+,Monmore Form Guide,2025-08-04,12,6,12:49,288y,D3,$470
+,Central Park Form Guide,2025-08-04,1,6,21:54,303y,D5,$470
+,Central Park Form Guide,2025-08-04,2,5,22:13,537y,A1,$617
+,Central Park Form Guide,2025-08-04,3,6,22:32,303y,D3,$470
+,Central Park Form Guide,2025-08-04,4,6,22:51,303y,D4,$470
+,Central Park Form Guide,2025-08-04,5,5,23:09,303y,D2,$537
+,Central Park Form Guide,2025-08-04,6,5,23:28,537y,A6,$497
+,Central Park Form Guide,2025-08-04,7,6,23:47,303y,D1,$570
+,Central Park Form Guide,2025-08-04,8,5,12:06,537y,A2,$537
+,Central Park Form Guide,2025-08-04,9,6,12:24,303y,D1,$570
+,Central Park Form Guide,2025-08-04,10,6,12:43,537y,A4,$590
+,Romford Form Guide,2025-08-05,1,6,21:23,437y,A6,$577
+,Romford Form Guide,2025-08-05,2,5,21:41,437y,A4,$510
+,Romford Form Guide,2025-08-05,3,6,22:01,437y,A5,$583
+,Romford Form Guide,2025-08-05,4,5,22:19,437y,A5,$504
+,Romford Form Guide,2025-08-05,5,6,22:38,437y,A8,$530
+,Romford Form Guide,2025-08-05,6,5,22:57,437y,A12,$405
+,Romford Form Guide,2025-08-05,7,5,23:16,437y,A9,$417
+,Romford Form Guide,2025-08-05,8,6,23:34,437y,A11,$470
+,Romford Form Guide,2025-08-05,9,6,23:53,437y,A1,$703
+,Romford Form Guide,2025-08-05,10,6,12:12,437y,A10,$484
+,Romford Form Guide,2025-08-05,11,6,12:31,437y,A10,$484
+,Romford Form Guide,2025-08-05,12,5,12:49,437y,A6,$497
+,Monmore Form Guide,2025-08-05,1,5,21:29,525y,A4,$510
+,Monmore Form Guide,2025-08-05,2,5,21:48,288y,D4,$405
+,Monmore Form Guide,2025-08-05,3,5,22:07,288y,D3,$405
+,Monmore Form Guide,2025-08-05,4,5,22:26,288y,D3,$405
+,Monmore Form Guide,2025-08-05,5,5,22:44,525y,A8,$457
+,Monmore Form Guide,2025-08-05,6,5,23:03,288y,D4,$405
+,Monmore Form Guide,2025-08-05,7,6,23:22,288y,D4,$470
+,Monmore Form Guide,2025-08-05,8,5,23:41,525y,A10,$417
+,Monmore Form Guide,2025-08-05,9,4,23:59,525y,A5,$504
+,Monmore Form Guide,2025-08-05,10,5,12:18,525y,A10,$417
+,Monmore Form Guide,2025-08-05,11,5,12:37,288y,D4,$405
+,Monmore Form Guide,2025-08-05,12,5,12:56,525y,A9,$417
+,Perry Barr Form Guide,2025-08-05,1,6,21:36,300y,D3,$470
+,Perry Barr Form Guide,2025-08-05,2,5,21:54,525y,A7,$464
+,Perry Barr Form Guide,2025-08-05,3,6,22:13,300y,D3,$470
+,Perry Barr Form Guide,2025-08-05,4,6,22:32,300y,D3,$470
+,Perry Barr Form Guide,2025-08-05,5,5,22:51,525y,A8,$457
+,Perry Barr Form Guide,2025-08-05,6,5,23:09,525y,A4,$590
+,Perry Barr Form Guide,2025-08-05,7,5,23:28,300y,D4,$405
+,Perry Barr Form Guide,2025-08-05,8,6,23:51,525y,HCP,$603
+,Perry Barr Form Guide,2025-08-05,9,5,12:06,525y,A7,$464
+,Perry Barr Form Guide,2025-08-05,10,5,12:24,525y,A6,$497
+,Perry Barr Form Guide,2025-08-05,11,5,12:43,525y,A5,$504
+,Perry Barr Form Guide,2025-08-05,12,5,13:02,525y,A3,$524
+,Swindon Form Guide,2025-08-05,1,5,13:08,520y,A7,$397
+,Swindon Form Guide,2025-08-05,2,6,13:26,520y,A3,$504
+,Swindon Form Guide,2025-08-05,3,5,13:42,520y,A3,$435
+,Swindon Form Guide,2025-08-05,4,5,13:59,520y,A2,$464
+,Swindon Form Guide,2025-08-05,5,5,14:16,286y,D4,$371
+,Swindon Form Guide,2025-08-05,6,5,14:33,520y,A4,$428
+,Swindon Form Guide,2025-08-05,7,6,14:49,286y,D3,$437
+,Swindon Form Guide,2025-08-05,8,5,15:07,520y,A6,$405
+,Swindon Form Guide,2025-08-05,9,5,15:24,286y,D2,$385
+,Swindon Form Guide,2025-08-05,10,5,15:41,520y,A1,$490
+,Swindon Form Guide,2025-08-05,11,6,15:59,520y,A8,$451
+,Swindon Form Guide,2025-08-05,12,5,16:16,520y,A4,$428
+,Central Park Form Guide,2025-08-05,1,5,13:14,303y,D1,$497
+,Central Park Form Guide,2025-08-05,2,5,13:31,537y,HCP,$603
+,Central Park Form Guide,2025-08-05,3,6,13:48,303y,D1,$570
+,Central Park Form Guide,2025-08-05,4,6,14:06,537y,A1,$703
+,Central Park Form Guide,2025-08-05,5,6,14:22,303y,D3,$470
+,Central Park Form Guide,2025-08-05,6,6,14:39,537y,A5,$583
+,Central Park Form Guide,2025-08-05,7,6,14:56,303y,D2,$537
+,Central Park Form Guide,2025-08-05,8,5,15:13,537y,A2,$537
+,Central Park Form Guide,2025-08-05,9,6,15:31,303y,D5,$470
+,Central Park Form Guide,2025-08-05,10,6,15:47,537y,A3,$603
+,Central Park Form Guide,2025-08-05,11,6,16:04,303y,D2,$537
+,Central Park Form Guide,2025-08-05,12,6,16:23,537y,A4,$590
+,Sunderland Form Guide,2025-08-05,1,5,13:53,492y,A1,$617
+,Sunderland Form Guide,2025-08-05,2,6,14:11,492y,HCP,$603
+,Sunderland Form Guide,2025-08-05,3,6,14:27,492y,A6,$577
+,Sunderland Form Guide,2025-08-05,4,5,14:44,285y,D1,$497
+,Sunderland Form Guide,2025-08-05,5,5,15:01,492y,A5,$504
+,Sunderland Form Guide,2025-08-05,6,5,15:19,492y,A7,$464
+,Sunderland Form Guide,2025-08-05,7,6,15:36,492y,HCP,$603
+,Sunderland Form Guide,2025-08-05,8,5,15:54,492y,A3,$524
+,Sunderland Form Guide,2025-08-05,9,5,16:11,492y,A2,$537
+,Sunderland Form Guide,2025-08-05,10,5,16:28,492y,A4,$510
+,Monmore Form Guide,2025-08-06,1,5,18:01,525y,A2,$537
+,Monmore Form Guide,2025-08-06,2,5,18:18,689y,S4,$504
+,Monmore Form Guide,2025-08-06,3,5,18:34,525y,A4,$510
+,Monmore Form Guide,2025-08-06,4,5,18:52,525y,A6,$497
+,Monmore Form Guide,2025-08-06,5,6,19:09,525y,A7,$537
+,Monmore Form Guide,2025-08-06,6,6,19:26,288y,D4,$470
+,Monmore Form Guide,2025-08-06,7,6,19:42,525y,A8,$530
+,Monmore Form Guide,2025-08-06,8,4,19:59,525y,A4,$431
+,Monmore Form Guide,2025-08-06,9,5,20:17,288y,D3,$470
+,Monmore Form Guide,2025-08-06,10,5,20:33,525y,A4,$510
+,Monmore Form Guide,2025-08-06,11,5,20:51,525y,A6,$497
+,Monmore Form Guide,2025-08-06,12,5,21:07,525y,A2,$537
+,Hove Form Guide,2025-08-06,1,5,21:23,547y,A8,$457
+,Hove Form Guide,2025-08-06,2,5,21:41,547y,A2,$537
+,Hove Form Guide,2025-08-06,3,6,22:01,547y,A4,$590
+,Hove Form Guide,2025-08-06,4,5,22:19,311y,D2,$464
+,Hove Form Guide,2025-08-06,5,5,22:38,547y,A1,$617
+,Hove Form Guide,2025-08-06,6,5,22:57,547y,A5,$583
+,Hove Form Guide,2025-08-06,7,5,23:16,547y,A7,$464
+,Hove Form Guide,2025-08-06,8,5,23:34,311y,D4,$405
+,Hove Form Guide,2025-08-06,9,5,23:53,547y,A9,$417
+,Hove Form Guide,2025-08-06,10,5,12:12,547y,A3,$524
+,Hove Form Guide,2025-08-06,11,6,12:31,547y,A4,$590
+,Hove Form Guide,2025-08-06,12,6,12:49,547y,A6,$577
+,Sunderland Form Guide,2025-08-06,1,6,21:54,492y,A2,$617
+,Sunderland Form Guide,2025-08-06,2,6,22:13,492y,A2,$617
+,Sunderland Form Guide,2025-08-06,3,6,22:32,285y,D2,$537
+,Sunderland Form Guide,2025-08-06,4,6,22:51,492y,A3,$603
+,Sunderland Form Guide,2025-08-06,5,6,23:09,285y,D3,$470
+,Sunderland Form Guide,2025-08-06,6,6,23:28,285y,D5,$470
+,Sunderland Form Guide,2025-08-06,7,6,23:47,492y,A4,$590
+,Sunderland Form Guide,2025-08-06,8,6,12:06,492y,A4,$590
+,Sunderland Form Guide,2025-08-06,9,6,12:24,492y,A5,$583
+,Sunderland Form Guide,2025-08-06,10,6,12:43,492y,HCP,$603
+,Perry Barr Form Guide,2025-08-06,1,5,13:08,525y,A5,$504
+,Perry Barr Form Guide,2025-08-06,2,5,13:26,525y,A4,$510
+,Perry Barr Form Guide,2025-08-06,3,5,13:42,300y,D3,$405
+,Perry Barr Form Guide,2025-08-06,4,6,13:59,300y,D3,$470
+,Perry Barr Form Guide,2025-08-06,5,5,14:16,525y,A3,$524
+,Perry Barr Form Guide,2025-08-06,6,5,14:33,525y,A6,$497
+,Perry Barr Form Guide,2025-08-06,7,5,14:49,300y,D4,$405
+,Perry Barr Form Guide,2025-08-06,8,5,15:07,525y,A6,$577
+,Perry Barr Form Guide,2025-08-06,9,5,15:24,525y,HCP,$603
+,Perry Barr Form Guide,2025-08-06,10,5,15:41,525y,A2,$537
+,Perry Barr Form Guide,2025-08-06,11,6,15:59,525y,A7,$537
+,Perry Barr Form Guide,2025-08-06,12,5,16:16,525y,A4,$510
+,Romford Form Guide,2025-08-06,1,6,13:37,437y,A9,$484
+,Romford Form Guide,2025-08-06,2,5,13:53,437y,A4,$510
+,Romford Form Guide,2025-08-06,3,6,14:11,437y,A2,$617
+,Romford Form Guide,2025-08-06,4,5,14:27,437y,A6,$497
+,Romford Form Guide,2025-08-06,5,5,14:44,437y,A10,$417
+,Romford Form Guide,2025-08-06,6,6,15:01,629y,S5,$583
+,Romford Form Guide,2025-08-06,7,5,15:19,437y,A9,$417
+,Romford Form Guide,2025-08-06,8,6,15:36,437y,A12,$470
+,Romford Form Guide,2025-08-06,9,5,15:54,629y,S1,$683
+,Romford Form Guide,2025-08-06,10,6,16:11,437y,A3,$603
+,Romford Form Guide,2025-08-06,11,5,16:28,437y,A7,$464
+,Romford Form Guide,2025-08-06,12,5,16:46,629y,S6,$464
+,Perry Barr Form Guide,2025-08-07,1,5,21:29,300y,D3,$405
+,Perry Barr Form Guide,2025-08-07,2,5,21:48,300y,D2,$464
+,Perry Barr Form Guide,2025-08-07,3,5,22:07,525y,A1,$617
+,Perry Barr Form Guide,2025-08-07,4,6,22:26,525y,A6,$577
+,Perry Barr Form Guide,2025-08-07,5,5,22:44,525y,A2,$537
+,Perry Barr Form Guide,2025-08-07,6,6,23:03,525y,HCP,$603
+,Perry Barr Form Guide,2025-08-07,7,6,23:22,300y,D1,$570
+,Perry Barr Form Guide,2025-08-07,8,5,23:41,300y,D3,$405
+,Perry Barr Form Guide,2025-08-07,9,5,23:59,525y,A4,$510
+,Perry Barr Form Guide,2025-08-07,10,5,12:18,525y,A3,$524
+,Perry Barr Form Guide,2025-08-07,11,4,12:37,525y,A8,$457
+,Perry Barr Form Guide,2025-08-07,12,4,12:56,525y,A1,$617
+,Hove Form Guide,2025-08-07,1,5,13:08,547y,A2,$537
+,Hove Form Guide,2025-08-07,2,5,13:26,547y,A4,$510
+,Hove Form Guide,2025-08-07,3,4,13:42,547y,A1,$530
+,Hove Form Guide,2025-08-07,4,5,13:59,311y,D1,$497
+,Hove Form Guide,2025-08-07,5,5,14:16,547y,A1,$617
+,Hove Form Guide,2025-08-07,6,5,14:33,547y,A5,$504
+,Hove Form Guide,2025-08-07,7,6,14:49,547y,OR3,$829
+,Hove Form Guide,2025-08-07,8,6,15:07,547y,OR3,$829
+,Hove Form Guide,2025-08-07,9,5,15:24,547y,OR3,$743
+,Hove Form Guide,2025-08-07,10,6,15:41,760y,OR,$829
+,Hove Form Guide,2025-08-07,11,5,15:59,547y,OR3,$743
+,Hove Form Guide,2025-08-07,12,4,16:16,547y,OR3,$743
+,Monmore Form Guide,2025-08-07,1,6,13:14,525y,A10,$484
+,Monmore Form Guide,2025-08-07,2,6,13:31,525y,A3,$603
+,Monmore Form Guide,2025-08-07,3,4,13:48,525y,A1,$617
+,Monmore Form Guide,2025-08-07,4,5,14:06,525y,A7,$464
+,Monmore Form Guide,2025-08-07,5,5,14:22,288y,D3,$405
+,Monmore Form Guide,2025-08-07,6,6,14:39,525y,A6,$577
+,Monmore Form Guide,2025-08-07,7,6,14:56,288y,D1,$570
+,Monmore Form Guide,2025-08-07,8,6,15:13,525y,A9,$484
+,Monmore Form Guide,2025-08-07,9,6,15:31,689y,S2,$637
+,Monmore Form Guide,2025-08-07,10,6,15:47,525y,A5,$583
+,Monmore Form Guide,2025-08-07,11,5,16:04,525y,A7,$464
+,Monmore Form Guide,2025-08-07,12,6,16:23,525y,A2,$617
+,Hove Form Guide,2025-08-08,1,4,18:01,547y,A8,$385
+,Hove Form Guide,2025-08-08,2,5,18:18,547y,A3,$524
+,Hove Form Guide,2025-08-08,3,5,18:34,547y,A2,$537
+,Hove Form Guide,2025-08-08,4,5,18:52,311y,D4,$405
+,Hove Form Guide,2025-08-08,5,5,19:09,547y,A10,$417
+,Hove Form Guide,2025-08-08,6,5,19:26,547y,A9,$417
+,Hove Form Guide,2025-08-08,7,5,19:42,547y,A4,$510
+,Hove Form Guide,2025-08-08,8,6,19:59,311y,D3,$470
+,Hove Form Guide,2025-08-08,9,5,20:17,547y,A7,$464
+,Hove Form Guide,2025-08-08,10,5,20:33,547y,A6,$497
+,Hove Form Guide,2025-08-08,11,5,20:51,547y,A1,$617
+,Hove Form Guide,2025-08-08,12,5,21:07,547y,A8,$457
+,Central Park Form Guide,2025-08-08,1,5,18:09,303y,D1,$497
+,Central Park Form Guide,2025-08-08,2,5,18:27,537y,A2,$537
+,Central Park Form Guide,2025-08-08,3,6,18:43,303y,D3,$470
+,Central Park Form Guide,2025-08-08,4,6,19:01,303y,D4,$470
+,Central Park Form Guide,2025-08-08,5,5,19:18,537y,A1,$617
+,Central Park Form Guide,2025-08-08,6,4,19:34,537y,HCP,$524
+,Central Park Form Guide,2025-08-08,7,6,19:51,303y,D2,$537
+,Central Park Form Guide,2025-08-08,8,5,20:08,537y,A4,$510
+,Central Park Form Guide,2025-08-08,9,6,20:26,303y,D1,$570
+,Central Park Form Guide,2025-08-08,10,5,20:42,537y,A3,$524
+,Central Park Form Guide,2025-08-08,11,5,20:59,303y,D2,$464
+,Central Park Form Guide,2025-08-08,12,6,21:14,303y,D3,$470
+,Swindon Form Guide,2025-08-08,1,6,21:23,520y,A9,$451
+,Swindon Form Guide,2025-08-08,2,5,21:41,520y,A6,$405
+,Swindon Form Guide,2025-08-08,3,5,22:01,286y,D4,$371
+,Swindon Form Guide,2025-08-08,4,6,22:19,520y,A8,$451
+,Swindon Form Guide,2025-08-08,5,5,22:38,520y,A7,$397
+,Swindon Form Guide,2025-08-08,6,5,22:57,520y,A4,$428
+,Swindon Form Guide,2025-08-08,7,6,23:16,520y,A3,$504
+,Swindon Form Guide,2025-08-08,8,5,23:34,520y,A7,$397
+,Swindon Form Guide,2025-08-08,9,5,23:53,520y,A4,$428
+,Swindon Form Guide,2025-08-08,10,5,12:12,520y,A2,$464
+,Swindon Form Guide,2025-08-08,11,5,12:31,520y,A5,$421
+,Swindon Form Guide,2025-08-08,12,5,12:49,520y,A5,$421
+,Romford Form Guide,2025-08-08,1,5,13:37,437y,OR3,$829
+,Romford Form Guide,2025-08-08,2,6,13:53,437y,OR3,$829
+,Romford Form Guide,2025-08-08,3,6,14:11,437y,OR3,$829
+,Romford Form Guide,2025-08-08,4,6,14:27,629y,OR3,$829
+,Romford Form Guide,2025-08-08,5,6,14:44,629y,OR3,$829
+,Romford Form Guide,2025-08-08,6,6,15:01,820y,OR,$829
+,Romford Form Guide,2025-08-08,7,6,15:19,246y,OR,$829
+,Romford Form Guide,2025-08-08,8,6,15:36,437y,OR,$829
+,Romford Form Guide,2025-08-08,9,6,15:54,437y,OR3,"$1,141"
+,Romford Form Guide,2025-08-08,10,5,16:11,629y,OR3,"$1,055"
+,Romford Form Guide,2025-08-08,11,6,16:28,437y,OR,$829
+,Romford Form Guide,2025-08-08,12,6,16:46,437y,OR,$829
+,Sunderland Form Guide,2025-08-08,1,6,14:08,492y,A2,$617
+,Sunderland Form Guide,2025-08-08,2,6,14:25,492y,HCP,$603
+,Sunderland Form Guide,2025-08-08,3,6,14:41,492y,OR3,"$1,128"
+,Sunderland Form Guide,2025-08-08,4,6,14:59,285y,OR3,"$1,128"
+,Sunderland Form Guide,2025-08-08,5,5,15:17,492y,OR3,"$1,128"
+,Sunderland Form Guide,2025-08-08,6,5,15:37,285y,OR3,"$1,128"
+,Sunderland Form Guide,2025-08-08,7,6,15:56,492y,OR3,"$1,327"
+,Sunderland Form Guide,2025-08-08,8,6,16:14,492y,OR3,"$1,327"
+,Sunderland Form Guide,2025-08-08,9,6,16:32,492y,A5,$583
+,Sunderland Form Guide,2025-08-08,10,6,16:48,492y,OR3,"$1,128"
+,Sunderland Form Guide,2025-08-08,11,6,17:04,285y,OR3,"$1,128"
+,Sunderland Form Guide,2025-08-08,12,6,17:22,492y,A6,$577
+,Monmore Form Guide | Today,2025-08-09,1,5,18:01,525y,A6,$497
+,Monmore Form Guide | Today,2025-08-09,2,5,18:18,525y,A2,$537
+,Monmore Form Guide | Today,2025-08-09,3,5,18:34,288y,D1,$497
+,Monmore Form Guide | Today,2025-08-09,4,6,18:52,525y,A7,$537
+,Monmore Form Guide | Today,2025-08-09,5,5,19:09,689y,S3,$524
+,Monmore Form Guide | Today,2025-08-09,6,6,19:26,288y,D4,$470
+,Monmore Form Guide | Today,2025-08-09,7,6,19:42,525y,A8,$530
+,Monmore Form Guide | Today,2025-08-09,8,6,19:59,525y,A10,$484
+,Monmore Form Guide | Today,2025-08-09,9,6,20:17,525y,A5,$583
+,Monmore Form Guide | Today,2025-08-09,10,6,20:33,288y,D2,$537
+,Monmore Form Guide | Today,2025-08-09,11,6,20:51,525y,A8,$530
+,Monmore Form Guide | Today,2025-08-09,12,6,21:07,288y,D3,$470
+,Romford Form Guide | Today,2025-08-09,1,6,18:09,437y,A7,$537
+,Romford Form Guide | Today,2025-08-09,2,5,18:27,437y,A12,$405
+,Romford Form Guide | Today,2025-08-09,3,5,18:43,437y,A3,$524
+,Romford Form Guide | Today,2025-08-09,4,6,19:01,437y,A5,$583
+,Romford Form Guide | Today,2025-08-09,5,6,19:18,437y,A11,$470
+,Romford Form Guide | Today,2025-08-09,6,5,19:34,437y,A7,$464
+,Romford Form Guide | Today,2025-08-09,7,5,19:51,437y,A6,$497
+,Romford Form Guide | Today,2025-08-09,8,6,20:08,437y,A9,$484
+,Romford Form Guide | Today,2025-08-09,9,5,20:26,437y,A4,$510
+,Romford Form Guide | Today,2025-08-09,10,6,20:42,437y,A8,$530
+,Romford Form Guide | Today,2025-08-09,11,5,20:59,437y,A8,$457
+,Romford Form Guide | Today,2025-08-09,12,5,21:14,437y,A4,$510
+,Swindon Form Guide | Today,2025-08-09,1,5,21:31,520y,A6,$405
+,Swindon Form Guide | Today,2025-08-09,2,5,21:49,520y,A3,$435
+,Swindon Form Guide | Today,2025-08-09,3,6,22:09,286y,D1,$490
+,Swindon Form Guide | Today,2025-08-09,4,5,22:27,520y,A5,$421
+,Swindon Form Guide | Today,2025-08-09,5,5,22:47,520y,A7,$397
+,Swindon Form Guide | Today,2025-08-09,6,5,23:04,520y,A7,$397
+,Swindon Form Guide | Today,2025-08-09,7,6,23:24,520y,A6,$470
+,Swindon Form Guide | Today,2025-08-09,8,6,23:42,286y,D3,$437
+,Swindon Form Guide | Today,2025-08-09,9,5,12:01,520y,A9,$385
+,Swindon Form Guide | Today,2025-08-09,10,5,12:19,520y,A4,$428
+,Swindon Form Guide | Today,2025-08-09,11,5,12:37,286y,D4,$371
+,Swindon Form Guide | Today,2025-08-09,12,5,12:57,520y,A4,$428
+,Central Park Form Guide | Today,2025-08-09,1,6,12:25,303y,D2,$537
+,Central Park Form Guide | Today,2025-08-09,2,6,12:45,537y,A5,$583
+,Central Park Form Guide | Today,2025-08-09,3,6,13:05,303y,D1,$570
+,Central Park Form Guide | Today,2025-08-09,4,5,13:25,726y,S2,$557
+,Central Park Form Guide | Today,2025-08-09,5,5,13:45,537y,A1,$617
+,Central Park Form Guide | Today,2025-08-09,6,6,14:05,537y,A1,$703
+,Central Park Form Guide | Today,2025-08-09,7,5,14:25,303y,D1,$497
+,Central Park Form Guide | Today,2025-08-09,8,6,14:45,537y,OR3,"$1,327"
+,Central Park Form Guide | Today,2025-08-09,9,5,15:05,537y,A1,$617
+,Central Park Form Guide | Today,2025-08-09,10,6,15:25,303y,OR,"$1,128"
+,Central Park Form Guide | Today,2025-08-09,11,5,15:45,537y,OR,$995
+,Central Park Form Guide | Today,2025-08-09,12,6,16:05,726y,OR,$962
+,Central Park Form Guide | Today,2025-08-09,13,6,16:25,537y,OR,$962
+,Hove Form Guide | Today,2025-08-09,1,5,13:08,547y,A10,$417
+,Hove Form Guide | Today,2025-08-09,2,5,13:26,547y,A7,$464
+,Hove Form Guide | Today,2025-08-09,3,5,13:42,547y,A5,$504
+,Hove Form Guide | Today,2025-08-09,4,5,13:59,547y,A1,$617
+,Hove Form Guide | Today,2025-08-09,5,5,14:16,547y,A3,$524
+,Hove Form Guide | Today,2025-08-09,6,5,14:33,547y,A5,$504
+,Hove Form Guide | Today,2025-08-09,7,5,14:49,547y,A6,$497
+,Hove Form Guide | Today,2025-08-09,8,5,15:07,311y,D3,$405
+,Hove Form Guide | Today,2025-08-09,9,5,15:24,547y,A4,$510
+,Hove Form Guide | Today,2025-08-09,10,5,15:41,547y,A11,$405
+,Hove Form Guide | Today,2025-08-09,11,4,15:59,547y,A1,$530
+,Hove Form Guide | Today,2025-08-09,12,5,16:16,547y,A4,$510
+,Monmore Eve,2025-08-09,1,6,13:31,689y,OR1,$962
+,Monmore Eve,2025-08-09,2,6,13:48,689y,OR1,$962
+,Monmore Eve,2025-08-09,3,6,14:06,689y,OR1,$962
+,Monmore Eve,2025-08-09,4,6,14:22,689y,OR1,$962
+,Monmore Eve,2025-08-09,5,6,14:39,689y,OR1,$962
+,Monmore Eve,2025-08-09,6,6,14:56,689y,OR1,$962
+,Monmore Eve,2025-08-09,7,6,15:13,525y,OR1,$962
+,Monmore Eve,2025-08-09,8,6,15:31,525y,OR1,$962
+,Monmore Eve,2025-08-09,9,6,15:47,525y,OR1,$962
+,Monmore Eve,2025-08-09,10,6,16:04,525y,OR1,$962
+,Monmore Eve,2025-08-09,11,6,16:23,525y,OR1,$962
+,Monmore Eve,2025-08-09,12,6,16:39,525y,OR1,$962
+,Perry Barr Form Guide | Today,2025-08-09,1,5,14:01,525y,A6,$497
+,Perry Barr Form Guide | Today,2025-08-09,2,5,14:18,525y,A2,$537
+,Perry Barr Form Guide | Today,2025-08-09,3,6,14:36,300y,D2,$537
+,Perry Barr Form Guide | Today,2025-08-09,4,5,14:53,525y,OR,$995
+,Perry Barr Form Guide | Today,2025-08-09,5,5,15:11,525y,A5,$504
+,Perry Barr Form Guide | Today,2025-08-09,6,5,15:28,722y,OR,$995
+,Perry Barr Form Guide | Today,2025-08-09,7,5,15:44,525y,OR,$995
+,Perry Barr Form Guide | Today,2025-08-09,8,6,16:02,300y,OR,"$1,128"
+,Perry Barr Form Guide | Today,2025-08-09,9,6,16:20,300y,D3,$470
+,Perry Barr Form Guide | Today,2025-08-09,10,6,16:36,300y,D3,$470
+,Perry Barr Form Guide | Today,2025-08-09,11,5,16:52,525y,OR,$855
+,Perry Barr Form Guide | Today,2025-08-09,12,5,17:11,300y,OR,$855
+,Romford Eve,2025-08-09,1,5,14:08,437y,A11,$405
+,Romford Eve,2025-08-09,2,5,14:25,437y,A9,$417
+,Romford Eve,2025-08-09,3,6,14:41,437y,A9,$484
+,Romford Eve,2025-08-09,4,5,14:59,437y,A1,$617
+,Romford Eve,2025-08-09,5,5,15:17,437y,A6,$497
+,Romford Eve,2025-08-09,6,6,15:37,437y,A7,$537
+,Romford Eve,2025-08-09,7,5,15:56,437y,A10,$417
+,Romford Eve,2025-08-09,8,6,16:14,437y,A5,$583
+,Romford Eve,2025-08-09,9,5,16:32,437y,A2,$537
+,Romford Eve,2025-08-09,10,5,16:48,437y,A12,$405
+,Romford Eve,2025-08-09,11,5,17:04,437y,A3,$524
+,Romford Eve,2025-08-09,12,6,17:22,629y,S3,$603
+,Addington Form Guide,2025-08-03,1,6,20:35,1 ³⁄₁₆ m,4U R35 TO R45 AMATEUR DRIVERS,"$5,296"
+,Addington Form Guide,2025-08-03,2,13,21:07,1 ⅝ m,3U NON-WINNERS,"$6,508"
+,Addington Form Guide,2025-08-03,3,6,21:45,1 ⅝ m,4U R35 TO R39,"$5,917"
+,Addington Form Guide,2025-08-03,4,9,22:15,1 ³⁄₁₆ m,3UFM NON-WINNERS,"$6,508"
+,Addington Form Guide,2025-08-03,5,10,22:54,1 ³⁄₁₆ m,4U R35 TO R38,"$5,917"
+,Addington Form Guide,2025-08-03,6,12,23:33,1 ¼ m,3U NON-WINNERS,"$6,508"
+,Addington Form Guide,2025-08-03,7,10,12:07,1 ¼ m,3U R35 TO R40,"$5,917"
+,Addington Form Guide,2025-08-03,8,11,12:44,1 ³⁄₁₆ m,R39 TO R45 WITH COND.,"$5,917"
+,Winton,2025-08-03,1,13,19:35,1 ½ m,3U NON-WINNERS,"$8,875"
+,Winton,2025-08-03,2,9,20:00,1 m,3UCG NON-WINNERS,"$8,875"
+,Winton,2025-08-03,3,9,20:25,1 m,3UFM NON-WINNERS,"$8,875"
+,Winton,2025-08-03,4,12,20:59,1 m,3U R40 TO R42,"$8,875"
+,Winton,2025-08-03,5,13,21:30,1 m,WITH COND.,"$8,875"
+,Winton,2025-08-03,6,13,22:07,1 ½ m,3U R35 TO R45 SPECIAL,"$8,875"
+,Winton,2025-08-03,7,13,22:38,1 m,UP TO R39 WITH COND.,"$8,875"
+,Winton,2025-08-03,8,11,23:18,1 m,"3U R43 TO R44, R45 WITH COND.","$8,875"
+,Winton,2025-08-03,9,13,23:58,1 m,3U R45 TO R50,"$8,875"
+,Winton,2025-08-03,10,10,12:31,1 ½ m,3U R46 TO R70 SPECIAL,"$8,875"
+,Winton,2025-08-03,11,10,12:59,1 m,3U R51 TO R65,"$8,875"
+,Globe Derby Park Form Guide,2025-08-04,1,8,23:03,1 ⅜ m,NR 60 to 72,"$4,514"
+,Globe Derby Park Form Guide,2025-08-04,2,6,23:37,1 ⅜ m,NR up to 59,"$4,514"
+,Globe Derby Park Form Guide,2025-08-04,3,8,12:16,1 ⅛ m,NR 51 to 59,"$2,902"
+,Globe Derby Park Form Guide,2025-08-04,4,9,12:52,1 ⅜ m,NR up to 47,"$2,902"
+,Globe Derby Park Form Guide,2025-08-04,5,8,13:33,1 ⅛ m,5 Lifetime Wins,"$4,514"
+,Globe Derby Park Form Guide,2025-08-04,6,9,14:04,1 ⅜ m,NR up to 43,"$2,902"
+,Globe Derby Park Form Guide,2025-08-04,7,10,14:42,1 ⅛ m,NR 44 to 50,"$4,514"
+,Globe Derby Park Form Guide,2025-08-04,8,10,15:21,1 ⅛ m,NR 51 to 59,"$4,514"
+,Globe Derby Park Form Guide,2025-08-04,9,8,15:52,1 ⅛ m,NR 73 or better,"$6,449"
+,Menangle Form Guide,2025-08-04,1,12,23:17,1 m,No NR,"$6,321"
+,Menangle Form Guide,2025-08-04,2,9,23:52,1 m,2 2 WINs,"$6,447"
+,Menangle Form Guide,2025-08-04,3,10,12:33,1 m,3U 0LTWAlso eligible 3yo+ NR,"$6,447"
+,Menangle Form Guide,2025-08-04,4,10,13:08,1 m,3U 0LTWAlso eligible 3yo+ NR,"$6,447"
+,Menangle Form Guide,2025-08-04,5,10,13:43,1 m,13U 1LTW Also eligible 3yo+ NR,"$6,447"
+,Menangle Form Guide,2025-08-04,6,10,14:18,1 m,NR up to 65,"$6,447"
+,Menangle Form Guide,2025-08-04,7,10,14:57,1 m,NR up to 70,"$6,447"
+,Menangle Form Guide,2025-08-04,8,9,15:29,1 m,5,"$6,447"
+,Albion Park Form Guide,2025-08-05,1,9,22:45,1 ⁵⁄₁₆ m,3 No NR,"$4,966"
+,Albion Park Form Guide,2025-08-05,2,7,23:12,1 m,2F No NR,"$6,321"
+,Albion Park Form Guide,2025-08-05,3,7,23:47,1 m,2F No NR,"$6,321"
+,Albion Park Form Guide,2025-08-05,4,11,12:22,1 ⁵⁄₁₆ m,3U NR up to 55,"$5,882"
+,Albion Park Form Guide,2025-08-05,5,7,13:03,1 m,2F No NR,"$6,321"
+,Albion Park Form Guide,2025-08-05,6,8,13:42,1 m,2C No NR,"$6,321"
+,Albion Park Form Guide,2025-08-05,7,9,14:17,1 m,2C No NR,"$6,321"
+,Albion Park Form Guide,2025-08-05,8,10,14:52,1 ⁵⁄₁₆ m,NR up to 75,"$5,882"
+,Albion Park Form Guide,2025-08-05,9,9,15:28,1 m,NR 54 to 60,"$5,805"
+,Albion Park Form Guide,2025-08-05,10,9,15:53,1 m,2C No NR,"$6,321"
+,Albion Park Form Guide,2025-08-05,11,10,16:22,1 m,NR 49 to 53,"$5,805"
+,Tamworth Form Guide,2025-08-07,1,9,23:21,1 ³⁄₁₆ m,0-1 WIN,"$4,473"
+,Tamworth Form Guide,2025-08-07,2,10,12:03,1 m,NR up to 32,"$4,473"
+,Tamworth Form Guide,2025-08-07,3,10,12:37,1 m,NR 33 to 40,"$4,473"
+,Tamworth Form Guide,2025-08-07,4,10,13:15,1 m,NR 41 to 46,"$4,473"
+,Tamworth Form Guide,2025-08-07,5,10,13:50,1 m,NR up to 50,"$4,473"
+,Tamworth Form Guide,2025-08-07,6,9,14:25,1 ³⁄₁₆ m,FC NR up to 52,"$4,473"
+,Tamworth Form Guide,2025-08-07,7,9,15:04,1 m,NR up to 57,"$4,473"
+,Tamworth Form Guide,2025-08-07,8,9,15:41,1 ³⁄₁₆ m,NR up to 67,"$4,473"
+,Redcliffe Form Guide,2025-08-07,1,6,23:42,1 ¹⁄₁₆ m,MAIDEN,"$3,999"
+,Redcliffe Form Guide,2025-08-07,2,10,12:17,1 ¼ m,NR up to 40,"$3,005"
+,Redcliffe Form Guide,2025-08-07,3,10,12:55,1 ¼ m,NR up to 40,"$3,005"
+,Redcliffe Form Guide,2025-08-07,4,9,13:33,1 ¹⁄₁₆ m,NR 40 to 44,"$2,967"
+,Redcliffe Form Guide,2025-08-07,5,9,14:07,1 ¹⁄₁₆ m,NR 40 to 44,"$2,967"
+,Redcliffe Form Guide,2025-08-07,6,8,14:45,1 ¹⁄₁₆ m,NR 51 to 55,"$3,999"
+,Redcliffe Form Guide,2025-08-07,7,9,15:22,1 ¼ m,NR 45 to 50,"$4,037"
+,Redcliffe Form Guide,2025-08-07,8,9,15:49,1 ¼ m,NR 45 to 50,"$4,037"
+,Mildura Form Guide,2025-08-08,1,6,22:07,1 ¹⁄₁₆ m,NR 56 to 64,"$4,515"
+,Mildura Form Guide,2025-08-08,2,8,22:38,1 ¹⁄₁₆ m,NR up to 49,"$2,580"
+,Mildura Form Guide,2025-08-08,3,9,23:13,1 ¹⁄₁₆ m,NR up to 49,"$2,580"
+,Mildura Form Guide,2025-08-08,4,9,23:48,1 ¹⁄₁₆ m,NR up to 49,"$2,580"
+,Mildura Form Guide,2025-08-08,5,8,12:23,1 ¹⁄₁₆ m,NR up to 49,"$2,580"
+,Mildura Form Guide,2025-08-08,6,8,12:58,1 ¹⁄₁₆ m,NR 65 or better,"$5,160"
+,Mildura Form Guide,2025-08-08,7,10,13:33,1 ¹⁄₁₆ m,MAIDEN,"$3,870"
+,Mildura Form Guide,2025-08-08,8,10,14:13,1 ⁵⁄₁₆ m,0-1 WIN,"$3,870"
+,Mildura Form Guide,2025-08-08,9,11,14:53,1 ⁵⁄₁₆ m,NR 50 to 55,"$3,870"
+,Mildura Form Guide,2025-08-08,10,10,15:30,1 ¹⁄₁₆ m,NR up to 55,"$5,160"
+,Riverina Paceway Form Guide,2025-08-08,1,8,22:24,1 ⅜ m,NR up to 48,"$6,315"
+,Riverina Paceway Form Guide,2025-08-08,2,8,23:00,1 ⅜ m,NR up to 48,"$6,315"
+,Riverina Paceway Form Guide,2025-08-08,3,8,23:38,1 ⅜ m,NR up to 48,"$6,315"
+,Riverina Paceway Form Guide,2025-08-08,4,8,12:13,1 ¹⁄₁₆ m,3 NR up to 57,"$6,315"
+,Riverina Paceway Form Guide,2025-08-08,5,8,12:48,1 ⅜ m,NR up to 58,"$6,315"
+,Riverina Paceway Form Guide,2025-08-08,6,7,13:23,1 ¹⁄₁₆ m,NR up to 53,"$6,315"
+,Riverina Paceway Form Guide,2025-08-08,7,8,14:03,1 ¹⁄₁₆ m,NR up to 53,"$6,315"
+,Riverina Paceway Form Guide,2025-08-08,8,9,14:43,1 ¹⁄₁₆ m,NR up to 90,"$6,315"
+,Addington Form Guide,2025-08-08,1,9,12:50,1 ³⁄₁₆ m,3U R38 TO R43,"$8,875"
+,Addington Form Guide,2025-08-08,2,12,13:26,1 ⅝ m,3U R40 TO R50 SPECIAL,"$8,875"
+,Addington Form Guide,2025-08-08,3,7,13:56,1 ³⁄₁₆ m,3U NON-WINNERS,"$8,875"
+,Addington Form Guide,2025-08-08,4,8,14:35,1 ³⁄₁₆ m,3U R45 TO R50,"$8,875"
+,Addington Form Guide,2025-08-08,5,13,15:04,1 ⅝ m,4U R35 TO R50 SPECHCP JUN.DRV,"$14,793"
+,Addington Form Guide,2025-08-08,6,6,15:34,1 ³⁄₁₆ m,2CG NON-WINNERS,"$8,875"
+,Addington Form Guide,2025-08-08,7,11,16:09,1 ⅝ m,3U R51 & FASTER DISCRETIONARY,"$14,793"
+,Addington Form Guide,2025-08-08,8,10,16:36,1 ³⁄₁₆ m,3U R35 TO R45,"$8,875"
+,Alexandra Park Form Guide,2025-08-08,1,9,13:45,1 ⅜ m,3U R35 TO R43,"$5,917"
+,Alexandra Park Form Guide,2025-08-08,2,9,14:17,1 ⅜ m,2U NON-WINNERS,"$8,875"
+,Alexandra Park Form Guide,2025-08-08,3,10,14:46,1 ⅜ m,R35 TO R48 DISCRETIONARY,"$10,059"
+,Alexandra Park Form Guide,2025-08-08,4,8,15:14,1 ⅜ m,3U R39 TO R50,"$10,059"
+,Alexandra Park Form Guide,2025-08-08,5,7,15:51,1 ¹⁄₁₆ m,3U R55 TO R115 WITH COND.,"$11,834"
+,Alexandra Park Form Guide,2025-08-08,6,10,16:19,1 ⅜ m,3U R49 TO R75 DISCRETIONARY,"$11,834"
+,Alexandra Park Form Guide,2025-08-08,7,7,16:50,1 ⅜ m,4U R37 TO R50 JUN.DRV,"$8,875"
+,Central Wheatbelt Form Guide,2025-08-10,1,8,13:07,1 ⁵⁄₁₆ m,NR up to 39,"$4,514"
+,Central Wheatbelt Form Guide,2025-08-10,2,10,13:37,1 ⁵⁄₁₆ m,NR up to 45,"$4,514"
+,Central Wheatbelt Form Guide,2025-08-10,3,8,14:17,1 ¹⁄₁₆ m,NR 40 to 60,"$4,514"
+,Central Wheatbelt Form Guide,2025-08-10,4,10,14:49,1 ⁵⁄₁₆ m,3 NR up to 55,"$4,514"
+,Central Wheatbelt Form Guide,2025-08-10,5,8,15:29,1 ¹⁄₁₆ m,2-4 WINs,"$4,514"
+,Central Wheatbelt Form Guide,2025-08-10,6,10,15:55,1 ⁵⁄₁₆ m,NR 45 to 55,"$4,514"
+,Ascot Park Raceway Form Guide,2025-08-10,1,11,19:50,1 ⅜ m,3U NON-WINNERS,"$8,875"
+,Ascot Park Raceway Form Guide,2025-08-10,2,14,20:15,1 ⅜ m,"3U R40 TO R42, R43 WITH COND.","$8,875"
+,Ascot Park Raceway Form Guide,2025-08-10,3,14,20:42,1 ⅜ m,UP TO R39 WITH COND.,"$8,875"
+,Ascot Park Raceway Form Guide,2025-08-10,4,14,21:20,1 ⅜ m,3U WITH COND.,"$8,875"
+,Ascot Park Raceway Form Guide,2025-08-10,5,7,21:50,1 ⅜ m,3U R46 TO R70 SPECIAL,"$8,875"
+,Ascot Park Raceway Form Guide,2025-08-10,6,10,22:28,1 ⅜ m,3U R45 TO R50 MOBILE PACE,"$8,875"
+,Ascot Park Raceway Form Guide,2025-08-10,7,14,23:07,1 ⅜ m,3U NON-WINNERS,"$8,875"
+,Ascot Park Raceway Form Guide,2025-08-10,8,12,23:45,1 ⅜ m,3U R35 TO R45 SPECIAL,"$8,875"
+,Ascot Park Raceway Form Guide,2025-08-10,9,8,12:19,1 ⅜ m,3U R51 TO R65,"$8,875"
+,Ascot Park Raceway Form Guide,2025-08-10,10,10,12:50,1 ⅜ m,"3U R43 TO R44, R45 WITH COND.","$8,875"
+,Ashburton Raceway Form Guide,2025-08-10,1,6,20:33,1 ½ m,3U NON-WINNERS,"$7,100"
+,Ashburton Raceway Form Guide,2025-08-10,2,8,21:05,1 ½ m,3U NON-WINNERS,"$6,508"
+,Ashburton Raceway Form Guide,2025-08-10,3,6,21:42,1 ¹⁄₁₆ m,WITH COND.,"$5,917"
+,Ashburton Raceway Form Guide,2025-08-10,4,11,22:12,1 ¹⁄₁₆ m,3UFM NON-WINNERS,"$7,100"
+,Ashburton Raceway Form Guide,2025-08-10,5,7,22:52,1 ½ m,3U R35 TO R40,"$5,917"
+,Ashburton Raceway Form Guide,2025-08-10,6,9,23:30,1 ½ m,4U R35,"$5,917"
+,Ashburton Raceway Form Guide,2025-08-10,7,14,12:10,1 ½ m,4U R35 TO R40,"$5,917"
+,Ashburton Raceway Form Guide,2025-08-10,8,7,12:36,1 ½ m,4U R35 TO R40,"$5,917"
+,Menangle Form Guide,2025-08-11,1,10,23:33,1 ⁷⁄₁₆ m,NR up to 54,"$6,447"
+,Menangle Form Guide,2025-08-11,2,10,12:12,1 ⁷⁄₁₆ m,NR up to 66,"$6,447"
+,Menangle Form Guide,2025-08-11,3,10,12:43,1 m,0LTWAlso eligible 3yo+ NR,"$6,447"
+,Menangle Form Guide,2025-08-11,4,10,13:18,1 m,0LTWAlso eligible 3yo+ NR,"$6,447"
+,Menangle Form Guide,2025-08-11,5,10,13:53,1 m,1LTW,"$6,447"
+,Menangle Form Guide,2025-08-11,6,10,14:33,1 m,NR up to 60,"$6,447"
+,Menangle Form Guide,2025-08-11,7,10,15:08,1 m,NR up to 70,"$6,447"
+,Menangle Form Guide,2025-08-11,8,10,15:41,1 m,5,"$6,447"
+,Charlton Form Guide,2025-08-11,1,7,23:47,1 m,NR 65 or better,"$5,160"
+,Charlton Form Guide,2025-08-11,2,9,12:23,1 ⁵⁄₁₆ m,No NR,"$2,580"
+,Charlton Form Guide,2025-08-11,3,13,13:03,1 m,NR 50 to 55,"$3,870"
+,Charlton Form Guide,2025-08-11,4,11,13:38,1 ⁵⁄₁₆ m,MAIDEN,"$3,870"
+,Charlton Form Guide,2025-08-11,5,12,14:13,1 m,MAIDEN,"$3,870"
+,Charlton Form Guide,2025-08-11,6,12,14:52,1 m,NR up to 42,"$2,580"
+,Albion Park Form Guide,2025-08-12,1,10,23:12,1 ⁵⁄₁₆ m,NR up to 55,"$5,882"
+,Albion Park Form Guide,2025-08-12,2,10,23:47,1 ⁵⁄₁₆ m,NR up to 55,"$5,882"
+,Albion Park Form Guide,2025-08-12,3,8,12:22,1 m,2 MAIDEN,"$5,805"
+,Albion Park Form Guide,2025-08-12,4,7,13:03,1 ⁵⁄₁₆ m,NR 70 to 99,"$5,882"
+,Albion Park Form Guide,2025-08-12,5,10,13:42,1 m,NR up to 43,"$5,805"
+,Albion Park Form Guide,2025-08-12,6,10,14:17,1 m,NR 44 to 49,"$5,805"
+,Albion Park Form Guide,2025-08-12,7,10,14:52,1 m,NR 50 to 55,"$5,805"
+,Albion Park Form Guide,2025-08-12,8,9,15:27,1 m,NR up to 75,"$5,805"
+,Albion Park Form Guide,2025-08-12,9,10,15:52,1 ⁵⁄₁₆ m,NR 56 to 64,"$5,882"
